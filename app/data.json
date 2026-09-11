@@ -1,0 +1,7752 @@
+[
+  {
+    "id": "LS-1",
+    "house": "LS",
+    "sr_no": 1,
+    "state": "Maharashtra",
+    "mp": "AASHTIKAR PATIL NAGESH BAPURAO",
+    "constituency": "HINGOLI",
+    "elected_nominated": null,
+    "allocated": 190289442
+  },
+  {
+    "id": "LS-2",
+    "house": "LS",
+    "sr_no": 2,
+    "state": "Jammu And Kashmir",
+    "mp": "ABDUL RASHID SHEIKH",
+    "constituency": "BARAMULLAH",
+    "elected_nominated": null,
+    "allocated": 154773472.11
+  },
+  {
+    "id": "LS-3",
+    "house": "LS",
+    "sr_no": 3,
+    "state": "Bihar",
+    "mp": "ABHAY KUMAR SINHA",
+    "constituency": "AURANGABAD_BR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-4",
+    "house": "LS",
+    "sr_no": 4,
+    "state": "West Bengal",
+    "mp": "ABHIJIT GANGOPADHYAY",
+    "constituency": "TAMLUK",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-5",
+    "house": "LS",
+    "sr_no": 5,
+    "state": "West Bengal",
+    "mp": "Abu Taher Khan",
+    "constituency": "MURSHIDABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-6",
+    "house": "LS",
+    "sr_no": 6,
+    "state": "West Bengal",
+    "mp": "ADHIKARI SOUMENDU",
+    "constituency": "KANTHI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-7",
+    "house": "LS",
+    "sr_no": 7,
+    "state": "Uttar Pradesh",
+    "mp": "ADITYA YADAV",
+    "constituency": "BADAUN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-8",
+    "house": "LS",
+    "sr_no": 8,
+    "state": "Kerala",
+    "mp": "Adv Adoor Prakash",
+    "constituency": "ATTINGAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-9",
+    "house": "LS",
+    "sr_no": 9,
+    "state": "Kerala",
+    "mp": "Adv Dean Kuriakose",
+    "constituency": "IDUKKI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-10",
+    "house": "LS",
+    "sr_no": 10,
+    "state": "Maharashtra",
+    "mp": "ADV GOWAAL KAGADA PADAVI",
+    "constituency": "NANDURBAR(ST)",
+    "elected_nominated": null,
+    "allocated": 147816309.11
+  },
+  {
+    "id": "LS-11",
+    "house": "LS",
+    "sr_no": 11,
+    "state": "Kerala",
+    "mp": "ADV K FRANCIS GEORGE",
+    "constituency": "KOTTAYAM",
+    "elected_nominated": null,
+    "allocated": 188722256.11
+  },
+  {
+    "id": "LS-12",
+    "house": "LS",
+    "sr_no": 12,
+    "state": "Uttar Pradesh",
+    "mp": "AFZAL ANSARI",
+    "constituency": "GHAZIPUR",
+    "elected_nominated": null,
+    "allocated": 220500000
+  },
+  {
+    "id": "LS-13",
+    "house": "LS",
+    "sr_no": 13,
+    "state": "Jammu And Kashmir",
+    "mp": "AGA SYED RUHULLAH MEHDI",
+    "constituency": "SRINAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-14",
+    "house": "LS",
+    "sr_no": 14,
+    "state": "Uttarakhand",
+    "mp": "Ajay Bhatt",
+    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-15",
+    "house": "LS",
+    "sr_no": 15,
+    "state": "Bihar",
+    "mp": "Ajay Kumar Mandal",
+    "constituency": "BHAGALPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-16",
+    "house": "LS",
+    "sr_no": 16,
+    "state": "Uttarakhand",
+    "mp": "Ajay Tamta",
+    "constituency": "ALMORA(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-17",
+    "house": "LS",
+    "sr_no": 17,
+    "state": "Uttar Pradesh",
+    "mp": "AJENDRA SINGH LODHI",
+    "constituency": "HAMIRPUR_UP",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-18",
+    "house": "LS",
+    "sr_no": 18,
+    "state": "Uttar Pradesh",
+    "mp": "AKHILESH YADAV",
+    "constituency": "KANNAUJ",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-19",
+    "house": "LS",
+    "sr_no": 19,
+    "state": "Uttar Pradesh",
+    "mp": "AKSHAYA YADAV",
+    "constituency": "FIROZABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-20",
+    "house": "LS",
+    "sr_no": 20,
+    "state": "Manipur",
+    "mp": "ALFRED KANNGAM S ARTHUR",
+    "constituency": "OUTER MANIPUR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-21",
+    "house": "LS",
+    "sr_no": 21,
+    "state": "Bihar",
+    "mp": "Alok Kumar Suman",
+    "constituency": "GOPALGANJ (SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-22",
+    "house": "LS",
+    "sr_no": 22,
+    "state": "Madhya Pradesh",
+    "mp": "ALOK SHARMA",
+    "constituency": "BHOPAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-23",
+    "house": "LS",
+    "sr_no": 23,
+    "state": "Maharashtra",
+    "mp": "AMAR SHARADRAO KALE",
+    "constituency": "WARDHA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-24",
+    "house": "LS",
+    "sr_no": 24,
+    "state": "Assam",
+    "mp": "AMARSING TISSO",
+    "constituency": "Diphu (ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-25",
+    "house": "LS",
+    "sr_no": 25,
+    "state": "Andhra Pradesh",
+    "mp": "AMBICA G LAKSHMINARAYANA VALMIKI",
+    "constituency": "ANANTAPUR",
+    "elected_nominated": null,
+    "allocated": 201899064.11
+  },
+  {
+    "id": "LS-26",
+    "house": "LS",
+    "sr_no": 26,
+    "state": "Maharashtra",
+    "mp": "Amol Ramsing Kolhe",
+    "constituency": "SHIRUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-27",
+    "house": "LS",
+    "sr_no": 27,
+    "state": "Rajasthan",
+    "mp": "AMRARAM",
+    "constituency": "SIKAR",
+    "elected_nominated": null,
+    "allocated": 165691544.11
+  },
+  {
+    "id": "LS-28",
+    "house": "LS",
+    "sr_no": 28,
+    "state": "Punjab",
+    "mp": "AMRINDER SINGH RAJA WARRING",
+    "constituency": "LUDHIANA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-29",
+    "house": "LS",
+    "sr_no": 29,
+    "state": "Uttar Pradesh",
+    "mp": "ANAND BHADAURIYA",
+    "constituency": "DHAURAHRA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-30",
+    "house": "LS",
+    "sr_no": 30,
+    "state": "Uttar Pradesh",
+    "mp": "ANAND KUMAR",
+    "constituency": "BAHRAICH(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-31",
+    "house": "LS",
+    "sr_no": 31,
+    "state": "Odisha",
+    "mp": "ANANTA NAYAK",
+    "constituency": "KEONJHAR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-32",
+    "house": "LS",
+    "sr_no": 32,
+    "state": "Tamil Nadu",
+    "mp": "Andimuthu Raja",
+    "constituency": "NILGIRIS(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-33",
+    "house": "LS",
+    "sr_no": 33,
+    "state": "Meghalaya",
+    "mp": "ANDREW J. SYNGKON",
+    "constituency": "SHILLONG",
+    "elected_nominated": null,
+    "allocated": 98000000
+  },
+  {
+    "id": "LS-34",
+    "house": "LS",
+    "sr_no": 34,
+    "state": "Manipur",
+    "mp": "ANGOMCHA BIMOL AKOIJAM",
+    "constituency": "INNER MANIPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-35",
+    "house": "LS",
+    "sr_no": 35,
+    "state": "Uttarakhand",
+    "mp": "ANIL BALUNI",
+    "constituency": "GARHWAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-36",
+    "house": "LS",
+    "sr_no": 36,
+    "state": "Maharashtra",
+    "mp": "ANIL YESHWANT DESAI",
+    "constituency": "MUMBAI SOUTH CENTRAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-37",
+    "house": "LS",
+    "sr_no": 37,
+    "state": "Madhya Pradesh",
+    "mp": "ANITA NAGARSINGH CHOUHAN",
+    "constituency": "RATLAM(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-38",
+    "house": "LS",
+    "sr_no": 38,
+    "state": "Odisha",
+    "mp": "ANITA SUBHADARSHINI",
+    "constituency": "ASKA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-39",
+    "house": "LS",
+    "sr_no": 39,
+    "state": "Jharkhand",
+    "mp": "Annpurna Devi",
+    "constituency": "KODARMA",
+    "elected_nominated": null,
+    "allocated": 166665931.8
+  },
+  {
+    "id": "LS-40",
+    "house": "LS",
+    "sr_no": 40,
+    "state": "Uttar Pradesh",
+    "mp": "ANOOP PRADHAN BALMIKI",
+    "constituency": "HATHRAS (SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-41",
+    "house": "LS",
+    "sr_no": 41,
+    "state": "Kerala",
+    "mp": "Anto Antony",
+    "constituency": "PATHANAMTHITTA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-42",
+    "house": "LS",
+    "sr_no": 42,
+    "state": "Maharashtra",
+    "mp": "ANUP SANJAY DHOTRE",
+    "constituency": "AKOLA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-43",
+    "house": "LS",
+    "sr_no": 43,
+    "state": "Uttar Pradesh",
+    "mp": "Anurag Sharma",
+    "constituency": "JHANSI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-44",
+    "house": "LS",
+    "sr_no": 44,
+    "state": "Himachal Pradesh",
+    "mp": "Anurag Singh Thakur",
+    "constituency": "HAMIRPUR_HP",
+    "elected_nominated": null,
+    "allocated": 149570117.11
+  },
+  {
+    "id": "LS-45",
+    "house": "LS",
+    "sr_no": 45,
+    "state": "Andhra Pradesh",
+    "mp": "Appalanaidu Kalisetti",
+    "constituency": "VIZIANAGARAM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-46",
+    "house": "LS",
+    "sr_no": 46,
+    "state": "Bihar",
+    "mp": "ARUN BHARTI",
+    "constituency": "JAMUI(SC)",
+    "elected_nominated": null,
+    "allocated": 194924621.11
+  },
+  {
+    "id": "LS-47",
+    "house": "LS",
+    "sr_no": 47,
+    "state": "Uttar Pradesh",
+    "mp": "ARUN GOVIL",
+    "constituency": "MEERUT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-48",
+    "house": "LS",
+    "sr_no": 48,
+    "state": "Tamil Nadu",
+    "mp": "ARUN NEHRU",
+    "constituency": "PERAMBALUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-49",
+    "house": "LS",
+    "sr_no": 49,
+    "state": "Telangana",
+    "mp": "ARUNA. D. K",
+    "constituency": "MAHABUBNAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-50",
+    "house": "LS",
+    "sr_no": 50,
+    "state": "West Bengal",
+    "mp": "ARUP CHAKRABORTY",
+    "constituency": "BANKURA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-51",
+    "house": "LS",
+    "sr_no": 51,
+    "state": "Telangana",
+    "mp": "Arvind Dharmapuri",
+    "constituency": "NIZAMABAD",
+    "elected_nominated": null,
+    "allocated": 281396355.11
+  },
+  {
+    "id": "LS-52",
+    "house": "LS",
+    "sr_no": 52,
+    "state": "Maharashtra",
+    "mp": "Arvind Ganpat Sawant",
+    "constituency": "MUMBAI SOUTH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-53",
+    "house": "LS",
+    "sr_no": 53,
+    "state": "Telangana",
+    "mp": "Asaduddin Owaisi",
+    "constituency": "HYDERABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-54",
+    "house": "LS",
+    "sr_no": 54,
+    "state": "Madhya Pradesh",
+    "mp": "ASHISH DUBEY",
+    "constituency": "JABALPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-55",
+    "house": "LS",
+    "sr_no": 55,
+    "state": "Uttar Pradesh",
+    "mp": "Ashok Kumar Rawat",
+    "constituency": "MISRIKH(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-56",
+    "house": "LS",
+    "sr_no": 56,
+    "state": "Bihar",
+    "mp": "Ashok Kumar Yadav",
+    "constituency": "MADHUBANI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-57",
+    "house": "LS",
+    "sr_no": 57,
+    "state": "West Bengal",
+    "mp": "Asit Kumar Mal",
+    "constituency": "BOLPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 275694456.74
+  },
+  {
+    "id": "LS-58",
+    "house": "LS",
+    "sr_no": 58,
+    "state": "Uttar Pradesh",
+    "mp": "ATUL GARG",
+    "constituency": "GHAZIABAD",
+    "elected_nominated": null,
+    "allocated": 155336470
+  },
+  {
+    "id": "LS-59",
+    "house": "LS",
+    "sr_no": 59,
+    "state": "Odisha",
+    "mp": "AVIMANYU SETHI",
+    "constituency": "BHADRAK(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-60",
+    "house": "LS",
+    "sr_no": 60,
+    "state": "Uttar Pradesh",
+    "mp": "AWADHESH PRASAD",
+    "constituency": "FAIZABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-61",
+    "house": "LS",
+    "sr_no": 61,
+    "state": "West Bengal",
+    "mp": "AZAD KIRTI JHA",
+    "constituency": "BARDHAMAN-DURGAPUR",
+    "elected_nominated": null,
+    "allocated": 179658399.98
+  },
+  {
+    "id": "LS-62",
+    "house": "LS",
+    "sr_no": 62,
+    "state": "Andhra Pradesh",
+    "mp": "B K PARTHASARATHI",
+    "constituency": "HINDUPUR",
+    "elected_nominated": null,
+    "allocated": 160491894.11
+  },
+  {
+    "id": "LS-63",
+    "house": "LS",
+    "sr_no": 63,
+    "state": "Uttar Pradesh",
+    "mp": "BABU SINGH KUSHWAHA",
+    "constituency": "JAUNPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-64",
+    "house": "LS",
+    "sr_no": 64,
+    "state": "Maharashtra",
+    "mp": "BACHHAV SHOBHA DINESH",
+    "constituency": "DHULE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-65",
+    "house": "LS",
+    "sr_no": 65,
+    "state": "West Bengal",
+    "mp": "BAG MITALI",
+    "constituency": "ARAMBAG(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-66",
+    "house": "LS",
+    "sr_no": 66,
+    "state": "Odisha",
+    "mp": "BAIJAYANT PANDA",
+    "constituency": "KENDRAPARA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-67",
+    "house": "LS",
+    "sr_no": 67,
+    "state": "Maharashtra",
+    "mp": "BAJRANG MANOHAR SONWANE",
+    "constituency": "BEED",
+    "elected_nominated": null,
+    "allocated": 165899107.19
+  },
+  {
+    "id": "LS-68",
+    "house": "LS",
+    "sr_no": 68,
+    "state": "Odisha",
+    "mp": "BALABHADRA MAJHI",
+    "constituency": "NABARANGPUR(ST)",
+    "elected_nominated": null,
+    "allocated": 147413962.11
+  },
+  {
+    "id": "LS-69",
+    "house": "LS",
+    "sr_no": 69,
+    "state": "Andhra Pradesh",
+    "mp": "Balashowry Vallabbhaneni",
+    "constituency": "MACHILIPATNAM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-70",
+    "house": "LS",
+    "sr_no": 70,
+    "state": "Telangana",
+    "mp": "BALRAM NAIK PORIKA",
+    "constituency": "MAHABUBABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-71",
+    "house": "LS",
+    "sr_no": 71,
+    "state": "Maharashtra",
+    "mp": "BALWANT BASWANT WANKHADE",
+    "constituency": "AMRAVATI(SC)",
+    "elected_nominated": null,
+    "allocated": 198293678
+  },
+  {
+    "id": "LS-72",
+    "house": "LS",
+    "sr_no": 72,
+    "state": "Maharashtra",
+    "mp": "BALYA MAMA SURESH GOPINATH MHATRE",
+    "constituency": "BHIWANDI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-73",
+    "house": "LS",
+    "sr_no": 73,
+    "state": "Delhi",
+    "mp": "Bansuri Swaraj",
+    "constituency": "NEW DELHI",
+    "elected_nominated": null,
+    "allocated": 154306950
+  },
+  {
+    "id": "LS-74",
+    "house": "LS",
+    "sr_no": 74,
+    "state": "West Bengal",
+    "mp": "BAPI HALDAR",
+    "constituency": "MATHURAPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-75",
+    "house": "LS",
+    "sr_no": 75,
+    "state": "Karnataka",
+    "mp": "BASAVARAJ BOMMAI",
+    "constituency": "HAVERI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-76",
+    "house": "LS",
+    "sr_no": 76,
+    "state": "Andhra Pradesh",
+    "mp": "BASTIPATI NAGARAJU PANCHALINGALA",
+    "constituency": "KURNOOL",
+    "elected_nominated": null,
+    "allocated": 159998515.11
+  },
+  {
+    "id": "LS-77",
+    "house": "LS",
+    "sr_no": 77,
+    "state": "Rajasthan",
+    "mp": "Bhagirath Chaudhary",
+    "constituency": "AJMER",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-78",
+    "house": "LS",
+    "sr_no": 78,
+    "state": "Rajasthan",
+    "mp": "BHAJAN LAL JATAV",
+    "constituency": "KARAULI-DHOLPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-79",
+    "house": "LS",
+    "sr_no": 79,
+    "state": "Madhya Pradesh",
+    "mp": "BHARAT SINGH KUSHWAH",
+    "constituency": "GWALIOR",
+    "elected_nominated": null,
+    "allocated": 151455276.04
+  },
+  {
+    "id": "LS-80",
+    "house": "LS",
+    "sr_no": 80,
+    "state": "Gujarat",
+    "mp": "BHARATBHAI MANUBHAI SUTARIYA",
+    "constituency": "AMRELI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-81",
+    "house": "LS",
+    "sr_no": 81,
+    "state": "Gujarat",
+    "mp": "Bharatsinhji Shankarji Dabhi",
+    "constituency": "PATAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-82",
+    "house": "LS",
+    "sr_no": 82,
+    "state": "Madhya Pradesh",
+    "mp": "BHARTI PARDHI",
+    "constituency": "BALAGHAT",
+    "elected_nominated": null,
+    "allocated": 154398389.01
+  },
+  {
+    "id": "LS-83",
+    "house": "LS",
+    "sr_no": 83,
+    "state": "Maharashtra",
+    "mp": "BHASKAR MURLIDHAR BHAGARE",
+    "constituency": "DINDORI(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-84",
+    "house": "LS",
+    "sr_no": 84,
+    "state": "Maharashtra",
+    "mp": "BHAUSAHEB RAJARAM WAKCHAURE",
+    "constituency": "SHIRDI(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-85",
+    "house": "LS",
+    "sr_no": 85,
+    "state": "Chhattisgarh",
+    "mp": "BHOJRAJ NAG",
+    "constituency": "KANKER(ST)",
+    "elected_nominated": null,
+    "allocated": 164672734.11
+  },
+  {
+    "id": "LS-86",
+    "house": "LS",
+    "sr_no": 86,
+    "state": "Uttar Pradesh",
+    "mp": "Bhola Singh",
+    "constituency": "BULANDSHAHR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-87",
+    "house": "LS",
+    "sr_no": 87,
+    "state": "Maharashtra",
+    "mp": "BHUMARE SANDIPANRAO ASARAM",
+    "constituency": "AURANGABAD_MH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-88",
+    "house": "LS",
+    "sr_no": 88,
+    "state": "Andhra Pradesh",
+    "mp": "Bhupathiraju Srinivasa varma",
+    "constituency": "NARASAPURAM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-89",
+    "house": "LS",
+    "sr_no": 89,
+    "state": "Rajasthan",
+    "mp": "BHUPENDER YADAV",
+    "constituency": "ALWAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-90",
+    "house": "LS",
+    "sr_no": 90,
+    "state": "Odisha",
+    "mp": "BIBHU PRASAD TARAI",
+    "constituency": "JAGATSINGHPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-91",
+    "house": "LS",
+    "sr_no": 91,
+    "state": "Jharkhand",
+    "mp": "Bidyut Baran Mahato",
+    "constituency": "JAMSHEDPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-92",
+    "house": "LS",
+    "sr_no": 92,
+    "state": "Assam",
+    "mp": "BIJULI KALITA MEDHI",
+    "constituency": "GUWAHATI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-93",
+    "house": "LS",
+    "sr_no": 93,
+    "state": "Tripura",
+    "mp": "BIPLAB KUMAR DEB",
+    "constituency": "TRIPURA WEST",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-94",
+    "house": "LS",
+    "sr_no": 94,
+    "state": "Andaman And Nicobar Islands",
+    "mp": "BISHNU PADA RAY",
+    "constituency": "ANDAMAN AND NICOBAR ISLANDS",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-95",
+    "house": "LS",
+    "sr_no": 95,
+    "state": "Rajasthan",
+    "mp": "BRIJENDRA SINGH OLA",
+    "constituency": "JHUNJHUNU",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-96",
+    "house": "LS",
+    "sr_no": 96,
+    "state": "Chhattisgarh",
+    "mp": "BRIJMOHAN AGRAWAL",
+    "constituency": "RAIPUR",
+    "elected_nominated": null,
+    "allocated": 153766451.11
+  },
+  {
+    "id": "LS-97",
+    "house": "LS",
+    "sr_no": 97,
+    "state": "Madhya Pradesh",
+    "mp": "BUNTY VIVEK SAHU",
+    "constituency": "CHHINDWARA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-98",
+    "house": "LS",
+    "sr_no": 98,
+    "state": "Gujarat",
+    "mp": "C R Patil",
+    "constituency": "NAVSARI",
+    "elected_nominated": null,
+    "allocated": 158532494.36
+  },
+  {
+    "id": "LS-99",
+    "house": "LS",
+    "sr_no": 99,
+    "state": "Andhra Pradesh",
+    "mp": "C.M.RAMESH",
+    "constituency": "ANAKAPALLE",
+    "elected_nominated": null,
+    "allocated": 202531656.11
+  },
+  {
+    "id": "LS-100",
+    "house": "LS",
+    "sr_no": 100,
+    "state": "Karnataka",
+    "mp": "CAPTAIN BRIJESH CHOWTA",
+    "constituency": "DAKSHINA KANNADA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-101",
+    "house": "LS",
+    "sr_no": 101,
+    "state": "Goa",
+    "mp": "CAPTAIN VIRIATO FERNANDES",
+    "constituency": "SOUTH GOA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-102",
+    "house": "LS",
+    "sr_no": 102,
+    "state": "Telangana",
+    "mp": "CHAMALA KIRAN KUMAR REDDY",
+    "constituency": "BHONGIR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-103",
+    "house": "LS",
+    "sr_no": 103,
+    "state": "Uttar Pradesh",
+    "mp": "CHANDAN CHAUHAN",
+    "constituency": "BIJNOR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-104",
+    "house": "LS",
+    "sr_no": 104,
+    "state": "Rajasthan",
+    "mp": "Chandra Prakash Joshi",
+    "constituency": "CHITTORGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-105",
+    "house": "LS",
+    "sr_no": 105,
+    "state": "Uttar Pradesh",
+    "mp": "CHANDRA SHEKHAR",
+    "constituency": "NAGINA(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-106",
+    "house": "LS",
+    "sr_no": 106,
+    "state": "Gujarat",
+    "mp": "CHANDUBHAI CHHAGANBHAI SHIHORA",
+    "constituency": "SURENDRANAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-107",
+    "house": "LS",
+    "sr_no": 107,
+    "state": "Punjab",
+    "mp": "CHARANJIT SINGH CHANNI",
+    "constituency": "JALANDHAR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-108",
+    "house": "LS",
+    "sr_no": 108,
+    "state": "Maharashtra",
+    "mp": "CHAVAN VASANTRAO BALWANTRAO",
+    "constituency": "NANDED",
+    "elected_nominated": null,
+    "allocated": null
+  },
+  {
+    "id": "LS-109",
+    "house": "LS",
+    "sr_no": 109,
+    "state": "Uttar Pradesh",
+    "mp": "CHHATRA PAL SINGH GANGWAR",
+    "constituency": "BAREILLY",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-110",
+    "house": "LS",
+    "sr_no": 110,
+    "state": "Maharashtra",
+    "mp": "CHHATRAPATI SHAHU SHAHAJI",
+    "constituency": "KOLHAPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-111",
+    "house": "LS",
+    "sr_no": 111,
+    "state": "Uttar Pradesh",
+    "mp": "CHHOTELAL",
+    "constituency": "ROBERTSGANJ(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-112",
+    "house": "LS",
+    "sr_no": 112,
+    "state": "Chhattisgarh",
+    "mp": "CHINTAMANI MAHARAJ",
+    "constituency": "SARGUJA(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-113",
+    "house": "LS",
+    "sr_no": 113,
+    "state": "Bihar",
+    "mp": "CHIRAG PASWAN",
+    "constituency": "HAJIPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-114",
+    "house": "LS",
+    "sr_no": 114,
+    "state": "Tamil Nadu",
+    "mp": "CN Annadurai",
+    "constituency": "TIRUVANNAMALAI",
+    "elected_nominated": null,
+    "allocated": 148579509.11
+  },
+  {
+    "id": "LS-115",
+    "house": "LS",
+    "sr_no": 115,
+    "state": "Tamil Nadu",
+    "mp": "D M Kathir Anand",
+    "constituency": "VELLORE",
+    "elected_nominated": null,
+    "allocated": 160196941.11
+  },
+  {
+    "id": "LS-116",
+    "house": "LS",
+    "sr_no": 116,
+    "state": "Tamil Nadu",
+    "mp": "D Ravikumar",
+    "constituency": "VILUPPURAM(SC)",
+    "elected_nominated": null,
+    "allocated": 197598306.11
+  },
+  {
+    "id": "LS-117",
+    "house": "LS",
+    "sr_no": 117,
+    "state": "Andhra Pradesh",
+    "mp": "Daggubati Purandeshwari",
+    "constituency": "RAJAHMUNDRY",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-118",
+    "house": "LS",
+    "sr_no": 118,
+    "state": "Andhra Pradesh",
+    "mp": "DAGGUMALLA PRASADA RAO",
+    "constituency": "CHITTOOR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-119",
+    "house": "LS",
+    "sr_no": 119,
+    "state": "Rajasthan",
+    "mp": "DAMODAR AGARWAL",
+    "constituency": "BHILWARA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-120",
+    "house": "LS",
+    "sr_no": 120,
+    "state": "Uttar Pradesh",
+    "mp": "DAROGA PRASAD SAROJ",
+    "constituency": "LALGANJ (SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-121",
+    "house": "LS",
+    "sr_no": 121,
+    "state": "Madhya Pradesh",
+    "mp": "DARSHAN SINGH CHOUDHARY",
+    "constituency": "HOSHANGABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-122",
+    "house": "LS",
+    "sr_no": 122,
+    "state": "Haryana",
+    "mp": "DEEPENDER SINGH HOODA",
+    "constituency": "ROHTAK",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-123",
+    "house": "LS",
+    "sr_no": 123,
+    "state": "Uttar Pradesh",
+    "mp": "Devendra Alias Bhole Singh",
+    "constituency": "AKBARPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-124",
+    "house": "LS",
+    "sr_no": 124,
+    "state": "Bihar",
+    "mp": "DEVESH CHANDRA THAKUR",
+    "constituency": "SITAMARHI",
+    "elected_nominated": null,
+    "allocated": 163809205.11
+  },
+  {
+    "id": "LS-125",
+    "house": "LS",
+    "sr_no": 125,
+    "state": "Uttar Pradesh",
+    "mp": "DEVESH SHAKYA",
+    "constituency": "ETAH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-126",
+    "house": "LS",
+    "sr_no": 126,
+    "state": "Gujarat",
+    "mp": "Devusinh Jesingbhai Chauhan",
+    "constituency": "KHEDA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-127",
+    "house": "LS",
+    "sr_no": 127,
+    "state": "Maharashtra",
+    "mp": "Dhairyasheel Sambhajirao Mane",
+    "constituency": "HATKANANGLE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-128",
+    "house": "LS",
+    "sr_no": 128,
+    "state": "Maharashtra",
+    "mp": "DHANORKAR PRATIBHA SURESH ALIAS BALUBHAU",
+    "constituency": "CHANDRAPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-129",
+    "house": "LS",
+    "sr_no": 129,
+    "state": "Odisha",
+    "mp": "DHARMENDRA PRADHAN",
+    "constituency": "SAMBALPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-130",
+    "house": "LS",
+    "sr_no": 130,
+    "state": "Uttar Pradesh",
+    "mp": "DHARMENDRA YADAV",
+    "constituency": "AZAMGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-131",
+    "house": "LS",
+    "sr_no": 131,
+    "state": "Gujarat",
+    "mp": "DHAVAL LAXMANBHAI PATEL",
+    "constituency": "VALSAD(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-132",
+    "house": "LS",
+    "sr_no": 132,
+    "state": "Bihar",
+    "mp": "Dileshwar Kamait",
+    "constituency": "SUPAUL",
+    "elected_nominated": null,
+    "allocated": 150450930.89
+  },
+  {
+    "id": "LS-133",
+    "house": "LS",
+    "sr_no": 133,
+    "state": "Assam",
+    "mp": "Dilip Saikia",
+    "constituency": "Darrang-Udalguri",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-134",
+    "house": "LS",
+    "sr_no": 134,
+    "state": "Bihar",
+    "mp": "Dinesh Chandra Yadav",
+    "constituency": "MADHEPURA",
+    "elected_nominated": null,
+    "allocated": 150070866.11
+  },
+  {
+    "id": "LS-135",
+    "house": "LS",
+    "sr_no": 135,
+    "state": "Gujarat",
+    "mp": "DINESHBHAI MAKWANA",
+    "constituency": "AHMEDABAD WEST(SC)",
+    "elected_nominated": null,
+    "allocated": 160434965.11
+  },
+  {
+    "id": "LS-136",
+    "house": "LS",
+    "sr_no": 136,
+    "state": "Andhra Pradesh",
+    "mp": "DR BYREDDY SHABARI",
+    "constituency": "NANDYAL",
+    "elected_nominated": null,
+    "allocated": 150675889.11
+  },
+  {
+    "id": "LS-137",
+    "house": "LS",
+    "sr_no": 137,
+    "state": "Karnataka",
+    "mp": "DR C N MANJUNATH",
+    "constituency": "BANGALORE RURAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-138",
+    "house": "LS",
+    "sr_no": 138,
+    "state": "Andhra Pradesh",
+    "mp": "Dr Chandra Sekhar Pemmasani",
+    "constituency": "GUNTUR",
+    "elected_nominated": null,
+    "allocated": 159774113.11
+  },
+  {
+    "id": "LS-139",
+    "house": "LS",
+    "sr_no": 139,
+    "state": "Punjab",
+    "mp": "DR DHARAMVIRA GANDHI",
+    "constituency": "PATIALA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-140",
+    "house": "LS",
+    "sr_no": 140,
+    "state": "West Bengal",
+    "mp": "Dr Jayanta Kumar Roy",
+    "constituency": "JALPAIGURI(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-141",
+    "house": "LS",
+    "sr_no": 141,
+    "state": "Maharashtra",
+    "mp": "DR KALGE SHIVAJI BANDAPPA",
+    "constituency": "LATUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-142",
+    "house": "LS",
+    "sr_no": 142,
+    "state": "Bihar",
+    "mp": "Dr Mohammad Jawed",
+    "constituency": "KISHANGANJ",
+    "elected_nominated": null,
+    "allocated": 148669229.11
+  },
+  {
+    "id": "LS-143",
+    "house": "LS",
+    "sr_no": 143,
+    "state": "Uttar Pradesh",
+    "mp": "DR RAJKUMAR SANGWAN",
+    "constituency": "BAGHPAT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-144",
+    "house": "LS",
+    "sr_no": 144,
+    "state": "Tamil Nadu",
+    "mp": "DR RANI SRI KUMAR",
+    "constituency": "TENKASI(SC)",
+    "elected_nominated": null,
+    "allocated": 153060922.82
+  },
+  {
+    "id": "LS-145",
+    "house": "LS",
+    "sr_no": 145,
+    "state": "Kerala",
+    "mp": "Dr Shashi Tharoor",
+    "constituency": "THIRUVANANTHAPURAM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-146",
+    "house": "LS",
+    "sr_no": 146,
+    "state": "West Bengal",
+    "mp": "Dr Sukanta Majumdar",
+    "constituency": "BALURGHAT",
+    "elected_nominated": null,
+    "allocated": 157085364.9
+  },
+  {
+    "id": "LS-147",
+    "house": "LS",
+    "sr_no": 147,
+    "state": "Gujarat",
+    "mp": "DR. HEMANG JOSHI",
+    "constituency": "VADODARA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-148",
+    "house": "LS",
+    "sr_no": 148,
+    "state": "Maharashtra",
+    "mp": "DR. HEMANT VISHNU SAVARA",
+    "constituency": "PALGHAR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-149",
+    "house": "LS",
+    "sr_no": 149,
+    "state": "Maharashtra",
+    "mp": "DR. KIRSAN NAMDEO",
+    "constituency": "GADCHIROLI-CHIMUR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-150",
+    "house": "LS",
+    "sr_no": 150,
+    "state": "Madhya Pradesh",
+    "mp": "DR. LATA WANKHEDE",
+    "constituency": "SAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-151",
+    "house": "LS",
+    "sr_no": 151,
+    "state": "Kerala",
+    "mp": "DR. M.P ABDUSSAMAD SAMADANI",
+    "constituency": "PONNANI",
+    "elected_nominated": null,
+    "allocated": 170434031.11
+  },
+  {
+    "id": "LS-152",
+    "house": "LS",
+    "sr_no": 152,
+    "state": "Gujarat",
+    "mp": "DR. MANSUKH MANDAVIYA",
+    "constituency": "PORBANDAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-153",
+    "house": "LS",
+    "sr_no": 153,
+    "state": "Karnataka",
+    "mp": "DR. PRABHA MALLIKARJUN",
+    "constituency": "DAVANAGERE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-154",
+    "house": "LS",
+    "sr_no": 154,
+    "state": "Odisha",
+    "mp": "DR. PRADEEP KUMAR PANIGRAHY",
+    "constituency": "BERHAMPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-155",
+    "house": "LS",
+    "sr_no": 155,
+    "state": "Maharashtra",
+    "mp": "DR. PRASHANT YADAORAO PADOLE",
+    "constituency": "BHANDARA-GONDIYA",
+    "elected_nominated": null,
+    "allocated": 159680283.39
+  },
+  {
+    "id": "LS-156",
+    "house": "LS",
+    "sr_no": 156,
+    "state": "Punjab",
+    "mp": "DR. RAJ KUMAR CHABBEWAL",
+    "constituency": "HOSHIARPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-157",
+    "house": "LS",
+    "sr_no": 157,
+    "state": "Madhya Pradesh",
+    "mp": "DR. RAJESH MISHRA",
+    "constituency": "SIDHI",
+    "elected_nominated": null,
+    "allocated": 262724510.35
+  },
+  {
+    "id": "LS-158",
+    "house": "LS",
+    "sr_no": 158,
+    "state": "Uttar Pradesh",
+    "mp": "DR. S P SINGH",
+    "constituency": "PRATAPGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-159",
+    "house": "LS",
+    "sr_no": 159,
+    "state": "West Bengal",
+    "mp": "DR. SHARMILA SARKAR",
+    "constituency": "BARDHAMAN PURBA(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-160",
+    "house": "LS",
+    "sr_no": 160,
+    "state": "Karnataka",
+    "mp": "DR.K.SUDHAKAR",
+    "constituency": "CHIKBALLAPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-161",
+    "house": "LS",
+    "sr_no": 161,
+    "state": "Telangana",
+    "mp": "DR.MALLU RAVI",
+    "constituency": "NAGARKURNOOL(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-162",
+    "house": "LS",
+    "sr_no": 162,
+    "state": "Jharkhand",
+    "mp": "DULU MAHATO",
+    "constituency": "DHANBAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-163",
+    "house": "LS",
+    "sr_no": 163,
+    "state": "Tamil Nadu",
+    "mp": "DURAI VAIKO",
+    "constituency": "TIRUCHIRAPPALLI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-164",
+    "house": "LS",
+    "sr_no": 164,
+    "state": "Madhya Pradesh",
+    "mp": "Durga Das Uikey",
+    "constituency": "BETUL(ST)",
+    "elected_nominated": null,
+    "allocated": 151569502.91
+  },
+  {
+    "id": "LS-165",
+    "house": "LS",
+    "sr_no": 165,
+    "state": "Rajasthan",
+    "mp": "Dushyant Singh",
+    "constituency": "JHALAWAR-BARAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-166",
+    "house": "LS",
+    "sr_no": 166,
+    "state": "Karnataka",
+    "mp": "E. TUKARAM",
+    "constituency": "BELLARY(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-167",
+    "house": "LS",
+    "sr_no": 167,
+    "state": "Kerala",
+    "mp": "E.T. MOHAMMED BASHEER",
+    "constituency": "MALAPPURAM",
+    "elected_nominated": null,
+    "allocated": 163895872.11
+  },
+  {
+    "id": "LS-168",
+    "house": "LS",
+    "sr_no": 168,
+    "state": "Telangana",
+    "mp": "EATALA RAJENDER",
+    "constituency": "MALKAJGIRI",
+    "elected_nominated": null,
+    "allocated": 327477390.86
+  },
+  {
+    "id": "LS-169",
+    "house": "LS",
+    "sr_no": 169,
+    "state": "Tamil Nadu",
+    "mp": "ESWARASAMY K",
+    "constituency": "POLLACHI",
+    "elected_nominated": null,
+    "allocated": 162315106.11
+  },
+  {
+    "id": "LS-170",
+    "house": "LS",
+    "sr_no": 170,
+    "state": "Madhya Pradesh",
+    "mp": "Faggan Singh Kulaste",
+    "constituency": "MANDLA(ST)",
+    "elected_nominated": null,
+    "allocated": 151861648.41
+  },
+  {
+    "id": "LS-171",
+    "house": "LS",
+    "sr_no": 171,
+    "state": "Karnataka",
+    "mp": "G. KUMAR NAIK",
+    "constituency": "RAICHUR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-172",
+    "house": "LS",
+    "sr_no": 172,
+    "state": "Maharashtra",
+    "mp": "GAIKWAD VARSHA EKNATH",
+    "constituency": "MUMBAI NORTH-CENTRAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-173",
+    "house": "LS",
+    "sr_no": 173,
+    "state": "Madhya Pradesh",
+    "mp": "Gajendra Singh Patel",
+    "constituency": "KHARGONE(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-174",
+    "house": "LS",
+    "sr_no": 174,
+    "state": "Rajasthan",
+    "mp": "Gajendra Singh Shekhawat",
+    "constituency": "JODHPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-175",
+    "house": "LS",
+    "sr_no": 175,
+    "state": "Tamil Nadu",
+    "mp": "GANAPATHY RAJKUMAR P",
+    "constituency": "COIMBATORE",
+    "elected_nominated": null,
+    "allocated": 147370490.11
+  },
+  {
+    "id": "LS-176",
+    "house": "LS",
+    "sr_no": 176,
+    "state": "Tamil Nadu",
+    "mp": "Ganesan Selvam",
+    "constituency": "KANCHEEPURAM(SC)",
+    "elected_nominated": null,
+    "allocated": 186508749.11
+  },
+  {
+    "id": "LS-177",
+    "house": "LS",
+    "sr_no": 177,
+    "state": "Madhya Pradesh",
+    "mp": "Ganesh Singh",
+    "constituency": "SATNA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-178",
+    "house": "LS",
+    "sr_no": 178,
+    "state": "Assam",
+    "mp": "GAURAV GOGOI",
+    "constituency": "JORHAT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-179",
+    "house": "LS",
+    "sr_no": 179,
+    "state": "Gujarat",
+    "mp": "GENIBEN NAGAJI THAKOR",
+    "constituency": "BANASKANTHA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-180",
+    "house": "LS",
+    "sr_no": 180,
+    "state": "Bihar",
+    "mp": "Giridhari Yadav",
+    "constituency": "BANKA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-181",
+    "house": "LS",
+    "sr_no": 181,
+    "state": "Bihar",
+    "mp": "Giriraj Singh",
+    "constituency": "BEGUSARAI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-182",
+    "house": "LS",
+    "sr_no": 182,
+    "state": "Andhra Pradesh",
+    "mp": "GM Harish Balayogi",
+    "constituency": "AMALAPURAM(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-183",
+    "house": "LS",
+    "sr_no": 183,
+    "state": "Telangana",
+    "mp": "GODAM NAGESH",
+    "constituency": "ADILABAD(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-184",
+    "house": "LS",
+    "sr_no": 184,
+    "state": "Tamil Nadu",
+    "mp": "GOPINATH K",
+    "constituency": "KRISHNAGIRI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-185",
+    "house": "LS",
+    "sr_no": 185,
+    "state": "Karnataka",
+    "mp": "GOVIND MAKTHAPPA KARJOL",
+    "constituency": "CHITRADURGA(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-186",
+    "house": "LS",
+    "sr_no": 186,
+    "state": "Andhra Pradesh",
+    "mp": "Gumma Thanuja Rani",
+    "constituency": "ARAKU(ST)",
+    "elected_nominated": null,
+    "allocated": 149458905.11
+  },
+  {
+    "id": "LS-187",
+    "house": "LS",
+    "sr_no": 187,
+    "state": "Punjab",
+    "mp": "GURMEET SINGH MEET HAYER",
+    "constituency": "SANGRUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-188",
+    "house": "LS",
+    "sr_no": 188,
+    "state": "Madhya Pradesh",
+    "mp": "Gyaneshwar Patil",
+    "constituency": "KHANDWA",
+    "elected_nominated": null,
+    "allocated": 155690684.77
+  },
+  {
+    "id": "LS-189",
+    "house": "LS",
+    "sr_no": 189,
+    "state": "Karnataka",
+    "mp": "H.D. KUMARASWAMY",
+    "constituency": "MANDYA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-190",
+    "house": "LS",
+    "sr_no": 190,
+    "state": "Uttar Pradesh",
+    "mp": "HARENDRA SINGH MALIK",
+    "constituency": "MUZAFFARNAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-191",
+    "house": "LS",
+    "sr_no": 191,
+    "state": "Gujarat",
+    "mp": "HARIBHAI PATEL",
+    "constituency": "MAHESANA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-192",
+    "house": "LS",
+    "sr_no": 192,
+    "state": "Rajasthan",
+    "mp": "HARISH CHANDRA MEENA",
+    "constituency": "TONK-SAWAI MADHOPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-193",
+    "house": "LS",
+    "sr_no": 193,
+    "state": "Delhi",
+    "mp": "Harsh Malhotra",
+    "constituency": "EAST DELHI",
+    "elected_nominated": null,
+    "allocated": 147134131
+  },
+  {
+    "id": "LS-194",
+    "house": "LS",
+    "sr_no": 194,
+    "state": "Gujarat",
+    "mp": "Hasmukh Bhai Soma Bhai Patel",
+    "constituency": "AHMEDABAD EAST",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-195",
+    "house": "LS",
+    "sr_no": 195,
+    "state": "Uttar Pradesh",
+    "mp": "IMRAN MASOOD",
+    "constituency": "SAHARANPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-196",
+    "house": "LS",
+    "sr_no": 196,
+    "state": "Sikkim",
+    "mp": "Indra Hang Subba",
+    "constituency": "SIKKIM",
+    "elected_nominated": null,
+    "allocated": 152003923.11
+  },
+  {
+    "id": "LS-197",
+    "house": "LS",
+    "sr_no": 197,
+    "state": "Uttar Pradesh",
+    "mp": "IQRA CHOUDHARY",
+    "constituency": "KAIRANA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-198",
+    "house": "LS",
+    "sr_no": 198,
+    "state": "West Bengal",
+    "mp": "ISHA KHAN CHOUDHURY",
+    "constituency": "MALDAHA DAKSHIN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-199",
+    "house": "LS",
+    "sr_no": 199,
+    "state": "West Bengal",
+    "mp": "JAGADISH CHANDRA BARMA BASUNIA",
+    "constituency": "COOCHBEHAR(SC)",
+    "elected_nominated": null,
+    "allocated": 168604641.11
+  },
+  {
+    "id": "LS-200",
+    "house": "LS",
+    "sr_no": 200,
+    "state": "Karnataka",
+    "mp": "JAGADISH SHETTAR",
+    "constituency": "BELGAUM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-201",
+    "house": "LS",
+    "sr_no": 201,
+    "state": "West Bengal",
+    "mp": "Jagannath Sarkar",
+    "constituency": "RANAGHAT(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-202",
+    "house": "LS",
+    "sr_no": 202,
+    "state": "Uttar Pradesh",
+    "mp": "Jagdambika Pal",
+    "constituency": "DOMARIYAGANJ",
+    "elected_nominated": null,
+    "allocated": 160643957.11
+  },
+  {
+    "id": "LS-203",
+    "house": "LS",
+    "sr_no": 203,
+    "state": "Haryana",
+    "mp": "JAI PARKASH",
+    "constituency": "HISAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-204",
+    "house": "LS",
+    "sr_no": 204,
+    "state": "Uttar Pradesh",
+    "mp": "Jai Prakash",
+    "constituency": "HARDOI (SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-205",
+    "house": "LS",
+    "sr_no": 205,
+    "state": "Madhya Pradesh",
+    "mp": "Janardan Mishra",
+    "constituency": "REWA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-206",
+    "house": "LS",
+    "sr_no": 206,
+    "state": "Gujarat",
+    "mp": "JASHUBHAI BHILUBHAI RATHVA",
+    "constituency": "CHHOTA UDAIPUR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-207",
+    "house": "LS",
+    "sr_no": 207,
+    "state": "Gujarat",
+    "mp": "Jaswantsinh Sumanbhai Bhabhor",
+    "constituency": "DAHOD(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-208",
+    "house": "LS",
+    "sr_no": 208,
+    "state": "Bihar",
+    "mp": "JITAN RAM MANJHI",
+    "constituency": "GAYA (SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-209",
+    "house": "LS",
+    "sr_no": 209,
+    "state": "Uttar Pradesh",
+    "mp": "JITENDRA KUMAR DOHARE",
+    "constituency": "ETAWAH(SC)",
+    "elected_nominated": null,
+    "allocated": 188747306.26
+  },
+  {
+    "id": "LS-210",
+    "house": "LS",
+    "sr_no": 210,
+    "state": "Jammu And Kashmir",
+    "mp": "Jitendra Singh",
+    "constituency": "UDHAMPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-211",
+    "house": "LS",
+    "sr_no": 211,
+    "state": "Uttar Pradesh",
+    "mp": "JITIN PRASADA",
+    "constituency": "PILIBHIT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-212",
+    "house": "LS",
+    "sr_no": 212,
+    "state": "Jharkhand",
+    "mp": "JOBA MAJHI",
+    "constituency": "SINGHBHUM(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-213",
+    "house": "LS",
+    "sr_no": 213,
+    "state": "Assam",
+    "mp": "JOYANTA BASUMATARY",
+    "constituency": "KOKRAJHAR (ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-214",
+    "house": "LS",
+    "sr_no": 214,
+    "state": "West Bengal",
+    "mp": "JUNE MALIAH",
+    "constituency": "MEDINIPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-215",
+    "house": "LS",
+    "sr_no": 215,
+    "state": "Madhya Pradesh",
+    "mp": "JYOTIRADITYA M. SCINDIA",
+    "constituency": "GUNA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-216",
+    "house": "LS",
+    "sr_no": 216,
+    "state": "Chhattisgarh",
+    "mp": "Jyotsna Charandas Mahant",
+    "constituency": "KORBA",
+    "elected_nominated": null,
+    "allocated": 155153738.11
+  },
+  {
+    "id": "LS-217",
+    "house": "LS",
+    "sr_no": 217,
+    "state": "Tamil Nadu",
+    "mp": "K E PRAKASH",
+    "constituency": "ERODE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-218",
+    "house": "LS",
+    "sr_no": 218,
+    "state": "Kerala",
+    "mp": "K RADHAKRISHNAN",
+    "constituency": "ALATHUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-219",
+    "house": "LS",
+    "sr_no": 219,
+    "state": "Tamil Nadu",
+    "mp": "K Subbarayan",
+    "constituency": "TIRUPPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-220",
+    "house": "LS",
+    "sr_no": 220,
+    "state": "Kerala",
+    "mp": "K. C VENUGOPAL",
+    "constituency": "ALAPPUZHA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-221",
+    "house": "LS",
+    "sr_no": 221,
+    "state": "Karnataka",
+    "mp": "K. RAJASHEKAR BASAVARAJ HITNAL",
+    "constituency": "KOPPAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-222",
+    "house": "LS",
+    "sr_no": 222,
+    "state": "Telangana",
+    "mp": "KADIYAM KAVYA",
+    "constituency": "WARANGEL(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-223",
+    "house": "LS",
+    "sr_no": 223,
+    "state": "West Bengal",
+    "mp": "Kakoli Ghosh Dastidar",
+    "constituency": "BARASAT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-224",
+    "house": "LS",
+    "sr_no": 224,
+    "state": "The Dadra And Nagar Haveli And Daman And Diu",
+    "mp": "Kalaben Mohanbhai Delkar",
+    "constituency": "DADRA & NAGAR HAVELI (ST)",
+    "elected_nominated": null,
+    "allocated": 269500000
+  },
+  {
+    "id": "LS-225",
+    "house": "LS",
+    "sr_no": 225,
+    "state": "Tamil Nadu",
+    "mp": "Kalanidhi Veeraswamy",
+    "constituency": "CHENNAI NORTH",
+    "elected_nominated": null,
+    "allocated": 171500000
+  },
+  {
+    "id": "LS-226",
+    "house": "LS",
+    "sr_no": 226,
+    "state": "Jharkhand",
+    "mp": "KALI CHARAN MUNDA",
+    "constituency": "KHUNTI(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-227",
+    "house": "LS",
+    "sr_no": 227,
+    "state": "Jharkhand",
+    "mp": "KALI CHARAN SINGH",
+    "constituency": "CHATRA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-228",
+    "house": "LS",
+    "sr_no": 228,
+    "state": "West Bengal",
+    "mp": "KALIPADA SAREN",
+    "constituency": "JHARGRAM(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-229",
+    "house": "LS",
+    "sr_no": 229,
+    "state": "West Bengal",
+    "mp": "Kalyan Banerjee",
+    "constituency": "SREERAMPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-230",
+    "house": "LS",
+    "sr_no": 230,
+    "state": "Maharashtra",
+    "mp": "KALYAN VAIJINATHRAO KALE",
+    "constituency": "JALNA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-231",
+    "house": "LS",
+    "sr_no": 231,
+    "state": "Assam",
+    "mp": "KAMAKHYA PRASAD TASA",
+    "constituency": "Kaziranga",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-232",
+    "house": "LS",
+    "sr_no": 232,
+    "state": "Delhi",
+    "mp": "Kamaljeet Sehrawat",
+    "constituency": "WEST DELHI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-233",
+    "house": "LS",
+    "sr_no": 233,
+    "state": "Chhattisgarh",
+    "mp": "KAMLESH JANGDE",
+    "constituency": "JANJGIR CHAMPA(SC)",
+    "elected_nominated": null,
+    "allocated": 150384382.11
+  },
+  {
+    "id": "LS-234",
+    "house": "LS",
+    "sr_no": 234,
+    "state": "Uttar Pradesh",
+    "mp": "Kamlesh Paswan",
+    "constituency": "BANSGAON(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-235",
+    "house": "LS",
+    "sr_no": 235,
+    "state": "Himachal Pradesh",
+    "mp": "Kangana Ranaut",
+    "constituency": "MANDI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-236",
+    "house": "LS",
+    "sr_no": 236,
+    "state": "Tamil Nadu",
+    "mp": "Kani K Navas",
+    "constituency": "RAMANATHAPURAM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-237",
+    "house": "LS",
+    "sr_no": 237,
+    "state": "Tamil Nadu",
+    "mp": "Kanimozhi Karunanidhi",
+    "constituency": "THOOTHUKKUDI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-238",
+    "house": "LS",
+    "sr_no": 238,
+    "state": "Uttar Pradesh",
+    "mp": "KANWAR SINGH TANWAR",
+    "constituency": "AMROHA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-239",
+    "house": "LS",
+    "sr_no": 239,
+    "state": "Uttar Pradesh",
+    "mp": "KARAN BHUSHAN SINGH",
+    "constituency": "KAISERGANJ",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-240",
+    "house": "LS",
+    "sr_no": 240,
+    "state": "West Bengal",
+    "mp": "KARTICK CHANDRA PAUL",
+    "constituency": "RAIGANJ",
+    "elected_nominated": null,
+    "allocated": 202677986.56
+  },
+  {
+    "id": "LS-241",
+    "house": "LS",
+    "sr_no": 241,
+    "state": "Bihar",
+    "mp": "Kaushalendra Kumar",
+    "constituency": "NALANDA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-242",
+    "house": "LS",
+    "sr_no": 242,
+    "state": "West Bengal",
+    "mp": "Khagen Murmu",
+    "constituency": "MALDAHA UTTAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-243",
+    "house": "LS",
+    "sr_no": 243,
+    "state": "West Bengal",
+    "mp": "Khalilur Rahaman",
+    "constituency": "JANGIPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-244",
+    "house": "LS",
+    "sr_no": 244,
+    "state": "Andhra Pradesh",
+    "mp": "Kinjarapu Ram Mohan Naidu",
+    "constituency": "SRIKAKULAM",
+    "elected_nominated": null,
+    "allocated": 171200630.11
+  },
+  {
+    "id": "LS-245",
+    "house": "LS",
+    "sr_no": 245,
+    "state": "Arunachal Pradesh",
+    "mp": "Kiren Rijiju",
+    "constituency": "ARUNACHAL WEST",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-246",
+    "house": "LS",
+    "sr_no": 246,
+    "state": "Uttar Pradesh",
+    "mp": "Kirti Vardhan Singh",
+    "constituency": "GONDA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-247",
+    "house": "LS",
+    "sr_no": 247,
+    "state": "Telangana",
+    "mp": "Kishan Reddy Gangapuram",
+    "constituency": "SECUNDERABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-248",
+    "house": "LS",
+    "sr_no": 248,
+    "state": "Uttar Pradesh",
+    "mp": "KISHORI LAL",
+    "constituency": "AMETHI",
+    "elected_nominated": null,
+    "allocated": 171500000
+  },
+  {
+    "id": "LS-249",
+    "house": "LS",
+    "sr_no": 249,
+    "state": "Telangana",
+    "mp": "KONDA VISHWESHWAR REDDY",
+    "constituency": "CHELVELLA",
+    "elected_nominated": null,
+    "allocated": 233721420.96
+  },
+  {
+    "id": "LS-250",
+    "house": "LS",
+    "sr_no": 250,
+    "state": "Karnataka",
+    "mp": "KOTA SRINIVAS POOJARY",
+    "constituency": "UDUPI CHIKMAGALUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-251",
+    "house": "LS",
+    "sr_no": 251,
+    "state": "Assam",
+    "mp": "Kripanath Mallah",
+    "constituency": "KARIMGANJ (SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-252",
+    "house": "LS",
+    "sr_no": 252,
+    "state": "Haryana",
+    "mp": "Krishan Pal Gurjar",
+    "constituency": "FARIDABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-253",
+    "house": "LS",
+    "sr_no": 253,
+    "state": "Uttar Pradesh",
+    "mp": "KRISHNA DEVI SHIVSHANKER PATEL",
+    "constituency": "BANDA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-254",
+    "house": "LS",
+    "sr_no": 254,
+    "state": "Andhra Pradesh",
+    "mp": "Krishna Prasad Tenneti",
+    "constituency": "BAPATLA",
+    "elected_nominated": null,
+    "allocated": 167796849.11
+  },
+  {
+    "id": "LS-255",
+    "house": "LS",
+    "sr_no": 255,
+    "state": "Tripura",
+    "mp": "KRITI DEVI DEBBARMAN",
+    "constituency": "TRIPURA EAST(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-256",
+    "house": "LS",
+    "sr_no": 256,
+    "state": "Rajasthan",
+    "mp": "KULDEEP INDORA",
+    "constituency": "GANGANAGAR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-257",
+    "house": "LS",
+    "sr_no": 257,
+    "state": "Telangana",
+    "mp": "KUNDURU RAGHUVEER",
+    "constituency": "NALGONDA",
+    "elected_nominated": null,
+    "allocated": 162952022
+  },
+  {
+    "id": "LS-258",
+    "house": "LS",
+    "sr_no": 258,
+    "state": "Uttar Pradesh",
+    "mp": "LALJI VERMA",
+    "constituency": "AMBEDKAR NAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-259",
+    "house": "LS",
+    "sr_no": 259,
+    "state": "Andhra Pradesh",
+    "mp": "Lavu Sri Krishna Devarayalu",
+    "constituency": "NARASARAOPET",
+    "elected_nominated": null,
+    "allocated": 174009663.11
+  },
+  {
+    "id": "LS-260",
+    "house": "LS",
+    "sr_no": 260,
+    "state": "Uttar Pradesh",
+    "mp": "LAXMIKANT PAPPU NISHAD",
+    "constituency": "SANT KABIR NAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-261",
+    "house": "LS",
+    "sr_no": 261,
+    "state": "Bihar",
+    "mp": "LOVELY ANAND",
+    "constituency": "SHEOHAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-262",
+    "house": "LS",
+    "sr_no": 262,
+    "state": "Rajasthan",
+    "mp": "LUMBARAM",
+    "constituency": "JALORE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-263",
+    "house": "LS",
+    "sr_no": 263,
+    "state": "Karnataka",
+    "mp": "M. MALLESH BABU",
+    "constituency": "KOLAR(SC)",
+    "elected_nominated": null,
+    "allocated": 147065957.11
+  },
+  {
+    "id": "LS-264",
+    "house": "LS",
+    "sr_no": 264,
+    "state": "Tamil Nadu",
+    "mp": "M.K. VISHNUPRASAD",
+    "constituency": "CUDDALORE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-265",
+    "house": "LS",
+    "sr_no": 265,
+    "state": "Andhra Pradesh",
+    "mp": "Maddila Gurumoorthy",
+    "constituency": "TIRUPATI(SC)",
+    "elected_nominated": null,
+    "allocated": 180399007
+  },
+  {
+    "id": "LS-266",
+    "house": "LS",
+    "sr_no": 266,
+    "state": "Telangana",
+    "mp": "MADHAVANENI RAGHUNANDAN RAO",
+    "constituency": "MEDAK",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-267",
+    "house": "LS",
+    "sr_no": 267,
+    "state": "Andhra Pradesh",
+    "mp": "Magunta Sreenivasulu Reddy",
+    "constituency": "ONGOLE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-268",
+    "house": "LS",
+    "sr_no": 268,
+    "state": "Madhya Pradesh",
+    "mp": "Mahendra Singh Solanky",
+    "constituency": "DEWAS(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-269",
+    "house": "LS",
+    "sr_no": 269,
+    "state": "Chhattisgarh",
+    "mp": "MAHESH KASHYAP",
+    "constituency": "BASTAR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-270",
+    "house": "LS",
+    "sr_no": 270,
+    "state": "Uttar Pradesh",
+    "mp": "Mahesh Sharma",
+    "constituency": "GAUTAM BUDDHA NAGAR",
+    "elected_nominated": null,
+    "allocated": 148816284.11
+  },
+  {
+    "id": "LS-271",
+    "house": "LS",
+    "sr_no": 271,
+    "state": "Rajasthan",
+    "mp": "MAHIMA KUMARI MEWAR",
+    "constituency": "RAJSAMAND",
+    "elected_nominated": null,
+    "allocated": 183892143
+  },
+  {
+    "id": "LS-272",
+    "house": "LS",
+    "sr_no": 272,
+    "state": "Uttarakhand",
+    "mp": "Mala Rajya Laxmi Shah",
+    "constituency": "TEHRI GARHWAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-273",
+    "house": "LS",
+    "sr_no": 273,
+    "state": "West Bengal",
+    "mp": "Mala Roy",
+    "constituency": "KOLKATA DAKSHIN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-274",
+    "house": "LS",
+    "sr_no": 274,
+    "state": "Tamil Nadu",
+    "mp": "MALAIYARASAN D",
+    "constituency": "KALLAKURICHI",
+    "elected_nominated": null,
+    "allocated": 201599593
+  },
+  {
+    "id": "LS-275",
+    "house": "LS",
+    "sr_no": 275,
+    "state": "Odisha",
+    "mp": "MALVIKA DEVI",
+    "constituency": "KALAHANDI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-276",
+    "house": "LS",
+    "sr_no": 276,
+    "state": "Punjab",
+    "mp": "MALVINDER SINGH KANG",
+    "constituency": "ANANDPUR SAHIB",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-277",
+    "house": "LS",
+    "sr_no": 277,
+    "state": "Tamil Nadu",
+    "mp": "MANI. A.",
+    "constituency": "DHARAMAPURI",
+    "elected_nominated": null,
+    "allocated": 164515071.11
+  },
+  {
+    "id": "LS-278",
+    "house": "LS",
+    "sr_no": 278,
+    "state": "Tamil Nadu",
+    "mp": "Manickam Tagore B",
+    "constituency": "VIRUDHUNAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-279",
+    "house": "LS",
+    "sr_no": 279,
+    "state": "Jharkhand",
+    "mp": "MANISH JAISWAL",
+    "constituency": "HAZARIBAGH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-280",
+    "house": "LS",
+    "sr_no": 280,
+    "state": "Chandigarh",
+    "mp": "MANISH TEWARI",
+    "constituency": "CHANDIGARH",
+    "elected_nominated": null,
+    "allocated": 178351443.75
+  },
+  {
+    "id": "LS-281",
+    "house": "LS",
+    "sr_no": 281,
+    "state": "Rajasthan",
+    "mp": "MANJU SHARMA",
+    "constituency": "JAIPUR",
+    "elected_nominated": null,
+    "allocated": 167082901.11
+  },
+  {
+    "id": "LS-282",
+    "house": "LS",
+    "sr_no": 282,
+    "state": "Rajasthan",
+    "mp": "MANNA LAL RAWAT",
+    "constituency": "UDAIPUR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-283",
+    "house": "LS",
+    "sr_no": 283,
+    "state": "Haryana",
+    "mp": "MANOHAR LAL",
+    "constituency": "KARNAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-284",
+    "house": "LS",
+    "sr_no": 284,
+    "state": "Bihar",
+    "mp": "MANOJ KUMAR",
+    "constituency": "SASARAM(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-285",
+    "house": "LS",
+    "sr_no": 285,
+    "state": "West Bengal",
+    "mp": "MANOJ TIGGA",
+    "constituency": "ALIPURDUARS(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-286",
+    "house": "LS",
+    "sr_no": 286,
+    "state": "Delhi",
+    "mp": "Manoj Tiwari",
+    "constituency": "NORTH EAST DELHI",
+    "elected_nominated": null,
+    "allocated": 225843858
+  },
+  {
+    "id": "LS-287",
+    "house": "LS",
+    "sr_no": 287,
+    "state": "Gujarat",
+    "mp": "Mansukhbhai Dhanjibhai Vasava",
+    "constituency": "BHARUCH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-288",
+    "house": "LS",
+    "sr_no": 288,
+    "state": "Jammu And Kashmir",
+    "mp": "MIAN ALTAF AHMAD",
+    "constituency": "ANANTNAG",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-289",
+    "house": "LS",
+    "sr_no": 289,
+    "state": "Andhra Pradesh",
+    "mp": "Midhun Reddy",
+    "constituency": "RAJAMPET",
+    "elected_nominated": null,
+    "allocated": 178951477.11
+  },
+  {
+    "id": "LS-290",
+    "house": "LS",
+    "sr_no": 290,
+    "state": "Bihar",
+    "mp": "MISHA BHARTI",
+    "constituency": "PATALIPUTRA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-291",
+    "house": "LS",
+    "sr_no": 291,
+    "state": "Gujarat",
+    "mp": "Mitesh Rameshbhai Bakabhai Patel",
+    "constituency": "ANAND",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-292",
+    "house": "LS",
+    "sr_no": 292,
+    "state": "Ladakh",
+    "mp": "Mohamed Haneefa",
+    "constituency": "LADAKH",
+    "elected_nominated": null,
+    "allocated": 161114542
+  },
+  {
+    "id": "LS-293",
+    "house": "LS",
+    "sr_no": 293,
+    "state": "Uttar Pradesh",
+    "mp": "MOHIBBULLAH",
+    "constituency": "RAMPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-294",
+    "house": "LS",
+    "sr_no": 294,
+    "state": "Maharashtra",
+    "mp": "MOHITE PATIL DHAIRYASHEEL RAJSINH",
+    "constituency": "MADHA",
+    "elected_nominated": null,
+    "allocated": 195613601.7
+  },
+  {
+    "id": "LS-295",
+    "house": "LS",
+    "sr_no": 295,
+    "state": "Bihar",
+    "mp": "Mr Gopal Jee Thakur",
+    "constituency": "DARBHANGA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-296",
+    "house": "LS",
+    "sr_no": 296,
+    "state": "West Bengal",
+    "mp": "Ms Mahua Moitra",
+    "constituency": "KRISHNANAGAR",
+    "elected_nominated": null,
+    "allocated": 159865046
+  },
+  {
+    "id": "LS-297",
+    "house": "LS",
+    "sr_no": 297,
+    "state": "Lakshadweep",
+    "mp": "MUHAMMED HAMDULLAH SAYEED",
+    "constituency": "LAKSHADWEEP(ST)",
+    "elected_nominated": null,
+    "allocated": 153942460.41
+  },
+  {
+    "id": "LS-298",
+    "house": "LS",
+    "sr_no": 298,
+    "state": "Uttar Pradesh",
+    "mp": "Mukesh Rajput",
+    "constituency": "FARRUKHABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-299",
+    "house": "LS",
+    "sr_no": 299,
+    "state": "Gujarat",
+    "mp": "MUKESHKUMAR CHANDRAKAANT DALAL",
+    "constituency": "SURAT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-300",
+    "house": "LS",
+    "sr_no": 300,
+    "state": "Rajasthan",
+    "mp": "MURARI LAL MEENA",
+    "constituency": "DAUSA(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-301",
+    "house": "LS",
+    "sr_no": 301,
+    "state": "Tamil Nadu",
+    "mp": "MURASOLI S",
+    "constituency": "THANJAVUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-302",
+    "house": "LS",
+    "sr_no": 302,
+    "state": "Maharashtra",
+    "mp": "MURLIDHAR MOHOL",
+    "constituency": "PUNE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-303",
+    "house": "LS",
+    "sr_no": 303,
+    "state": "Odisha",
+    "mp": "NABA CHARAN MAJHI",
+    "constituency": "MAYURBHANJ (ST)",
+    "elected_nominated": null,
+    "allocated": 147563957.11
+  },
+  {
+    "id": "LS-304",
+    "house": "LS",
+    "sr_no": 304,
+    "state": "Jharkhand",
+    "mp": "NALIN SOREN",
+    "constituency": "DUMKA(ST)",
+    "elected_nominated": null,
+    "allocated": 147364097.11
+  },
+  {
+    "id": "LS-305",
+    "house": "LS",
+    "sr_no": 305,
+    "state": "Uttar Pradesh",
+    "mp": "NARAYAN DAS AHIRWAR",
+    "constituency": "JALAUN(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-306",
+    "house": "LS",
+    "sr_no": 306,
+    "state": "Maharashtra",
+    "mp": "NARAYAN TATU RANE",
+    "constituency": "RATNAGIRI-SINDHUDURG",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-307",
+    "house": "LS",
+    "sr_no": 307,
+    "state": "Uttar Pradesh",
+    "mp": "NARESH CHANDRA UTTAM PATEL",
+    "constituency": "FATEHPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-308",
+    "house": "LS",
+    "sr_no": 308,
+    "state": "Maharashtra",
+    "mp": "NARESH GANPAT MHASKE",
+    "constituency": "THANE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-309",
+    "house": "LS",
+    "sr_no": 309,
+    "state": "Haryana",
+    "mp": "NAVEEN JINDAL",
+    "constituency": "KURUKSHETRA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-310",
+    "house": "LS",
+    "sr_no": 310,
+    "state": "Uttar Pradesh",
+    "mp": "NEERAJ MAURYA",
+    "constituency": "AONLA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-311",
+    "house": "LS",
+    "sr_no": 311,
+    "state": "Maharashtra",
+    "mp": "NILESH DNYANDEV LANKE",
+    "constituency": "AHMEDNAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-312",
+    "house": "LS",
+    "sr_no": 312,
+    "state": "Gujarat",
+    "mp": "NIMUBEN JAYANTIBHAI BAMBHANIYA",
+    "constituency": "BHAVNAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-313",
+    "house": "LS",
+    "sr_no": 313,
+    "state": "Jharkhand",
+    "mp": "Nishikant Dubey",
+    "constituency": "GODDA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-314",
+    "house": "LS",
+    "sr_no": 314,
+    "state": "Maharashtra",
+    "mp": "Nitin Jairam Gadkari",
+    "constituency": "NAGPUR",
+    "elected_nominated": null,
+    "allocated": 168195086.11
+  },
+  {
+    "id": "LS-315",
+    "house": "LS",
+    "sr_no": 315,
+    "state": "Bihar",
+    "mp": "Nityanand Rai",
+    "constituency": "UJJARPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-316",
+    "house": "LS",
+    "sr_no": 316,
+    "state": "Rajasthan",
+    "mp": "Om Birla",
+    "constituency": "KOTA",
+    "elected_nominated": null,
+    "allocated": 163906956.6
+  },
+  {
+    "id": "LS-317",
+    "house": "LS",
+    "sr_no": 317,
+    "state": "Maharashtra",
+    "mp": "Omprakash Bhupalsinh Alias Pawan Rajenimbalkar",
+    "constituency": "OSMANABAD",
+    "elected_nominated": null,
+    "allocated": 184758519.11
+  },
+  {
+    "id": "LS-318",
+    "house": "LS",
+    "sr_no": 318,
+    "state": "Karnataka",
+    "mp": "P C Mohan",
+    "constituency": "BANGALORE CENTRAL",
+    "elected_nominated": null,
+    "allocated": 159995711.11
+  },
+  {
+    "id": "LS-319",
+    "house": "LS",
+    "sr_no": 319,
+    "state": "Uttar Pradesh",
+    "mp": "Pankaj Chowdhary",
+    "constituency": "MAHARAJGANJ_UP",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-320",
+    "house": "LS",
+    "sr_no": 320,
+    "state": "Assam",
+    "mp": "PARIMAL SUKLABAIDYA",
+    "constituency": "SILCHAR",
+    "elected_nominated": null,
+    "allocated": 148300157.11
+  },
+  {
+    "id": "LS-321",
+    "house": "LS",
+    "sr_no": 321,
+    "state": "Gujarat",
+    "mp": "PARSHOTTAMBHAI RUPALA",
+    "constituency": "RAJKOT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-322",
+    "house": "LS",
+    "sr_no": 322,
+    "state": "West Bengal",
+    "mp": "PARTHA BHOWMICK",
+    "constituency": "BARRACKPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-323",
+    "house": "LS",
+    "sr_no": 323,
+    "state": "Karnataka",
+    "mp": "Parvatagouda Chandanagouda Gaddigoudar",
+    "constituency": "BAGALKOT",
+    "elected_nominated": null,
+    "allocated": 167541747.11
+  },
+  {
+    "id": "LS-324",
+    "house": "LS",
+    "sr_no": 324,
+    "state": "The Dadra And Nagar Haveli And Daman And Diu",
+    "mp": "PATEL UMESHBHAI BABUBHAI",
+    "constituency": "DAMAN and DIU",
+    "elected_nominated": null,
+    "allocated": 245063957
+  },
+  {
+    "id": "LS-325",
+    "house": "LS",
+    "sr_no": 325,
+    "state": "West Bengal",
+    "mp": "PATHAN YUSUF",
+    "constituency": "BAHARAMPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-326",
+    "house": "LS",
+    "sr_no": 326,
+    "state": "Assam",
+    "mp": "PHANI BHUSAN CHOUDHURY",
+    "constituency": "BARPETA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-327",
+    "house": "LS",
+    "sr_no": 327,
+    "state": "Maharashtra",
+    "mp": "Piyush Vedprakash Goyal",
+    "constituency": "MUMBAI NORTH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-328",
+    "house": "LS",
+    "sr_no": 328,
+    "state": "Andhra Pradesh",
+    "mp": "PRABHAKAR REDDY VEMIREDDY",
+    "constituency": "NELLORE(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-329",
+    "house": "LS",
+    "sr_no": 329,
+    "state": "Gujarat",
+    "mp": "Prabhubhai Nagarbhai Vasava",
+    "constituency": "BARDOLI(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-330",
+    "house": "LS",
+    "sr_no": 330,
+    "state": "Assam",
+    "mp": "Pradan Baruah",
+    "constituency": "LAKHIMPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-331",
+    "house": "LS",
+    "sr_no": 331,
+    "state": "Bihar",
+    "mp": "Pradeep Kumar Singh",
+    "constituency": "ARARIA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-332",
+    "house": "LS",
+    "sr_no": 332,
+    "state": "Odisha",
+    "mp": "PRADEEP PUROHIT",
+    "constituency": "BARGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-333",
+    "house": "LS",
+    "sr_no": 333,
+    "state": "Assam",
+    "mp": "Pradyut Bordoloi",
+    "constituency": "NOWGONG",
+    "elected_nominated": null,
+    "allocated": 98000000
+  },
+  {
+    "id": "LS-334",
+    "house": "LS",
+    "sr_no": 334,
+    "state": "Karnataka",
+    "mp": "Pralhad Venkatesh Joshi",
+    "constituency": "DHARWAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-335",
+    "house": "LS",
+    "sr_no": 335,
+    "state": "Maharashtra",
+    "mp": "PRANITI SUSHILKUMAR SHINDE",
+    "constituency": "SOLAPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-336",
+    "house": "LS",
+    "sr_no": 336,
+    "state": "West Bengal",
+    "mp": "Prasun Banerjee",
+    "constituency": "HOWRAH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-337",
+    "house": "LS",
+    "sr_no": 337,
+    "state": "Odisha",
+    "mp": "Pratap Chandra Sarangi",
+    "constituency": "BALASORE",
+    "elected_nominated": null,
+    "allocated": 147064254.11
+  },
+  {
+    "id": "LS-338",
+    "house": "LS",
+    "sr_no": 338,
+    "state": "Maharashtra",
+    "mp": "Prataprao Jadhav",
+    "constituency": "BULDHANA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-339",
+    "house": "LS",
+    "sr_no": 339,
+    "state": "West Bengal",
+    "mp": "Pratima Mondal",
+    "constituency": "JOYNAGAR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-340",
+    "house": "LS",
+    "sr_no": 340,
+    "state": "Delhi",
+    "mp": "Praveen Khandelwal",
+    "constituency": "CHANDINI CHOWK",
+    "elected_nominated": null,
+    "allocated": 147470276
+  },
+  {
+    "id": "LS-341",
+    "house": "LS",
+    "sr_no": 341,
+    "state": "Uttar Pradesh",
+    "mp": "PRAVEEN PATEL",
+    "constituency": "PHULPUR",
+    "elected_nominated": null,
+    "allocated": 151559884.09
+  },
+  {
+    "id": "LS-342",
+    "house": "LS",
+    "sr_no": 342,
+    "state": "Uttar Pradesh",
+    "mp": "PRIYA SAROJ",
+    "constituency": "MACHHLISHAHR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-343",
+    "house": "LS",
+    "sr_no": 343,
+    "state": "Kerala",
+    "mp": "Priyanka Gandhi Vadra",
+    "constituency": "WAYANAD",
+    "elected_nominated": null,
+    "allocated": 122500000
+  },
+  {
+    "id": "LS-344",
+    "house": "LS",
+    "sr_no": 344,
+    "state": "Karnataka",
+    "mp": "PRIYANKA SATISH JARKIHOLI",
+    "constituency": "CHIKKODI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-345",
+    "house": "LS",
+    "sr_no": 345,
+    "state": "West Bengal",
+    "mp": "Prof Sougata Ray",
+    "constituency": "DUM DUM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-346",
+    "house": "LS",
+    "sr_no": 346,
+    "state": "Uttar Pradesh",
+    "mp": "Prof SP Singh Baghel",
+    "constituency": "AGRA(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-347",
+    "house": "LS",
+    "sr_no": 347,
+    "state": "Uttar Pradesh",
+    "mp": "PUSHPENDRA SAROJ",
+    "constituency": "KAUSHAMBI(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-348",
+    "house": "LS",
+    "sr_no": 348,
+    "state": "Andhra Pradesh",
+    "mp": "Putta Mahesh Kumar",
+    "constituency": "ELURU",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-349",
+    "house": "LS",
+    "sr_no": 349,
+    "state": "Uttar Pradesh",
+    "mp": "R.K. CHAUDHARY",
+    "constituency": "MOHANLALGANJ(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-350",
+    "house": "LS",
+    "sr_no": 350,
+    "state": "Odisha",
+    "mp": "RABINDRA NARAYAN BEHERA",
+    "constituency": "JAJPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147064617.11
+  },
+  {
+    "id": "LS-351",
+    "house": "LS",
+    "sr_no": 351,
+    "state": "West Bengal",
+    "mp": "RACHNA BANERJEE",
+    "constituency": "HOOGHLY",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-352",
+    "house": "LS",
+    "sr_no": 352,
+    "state": "Bihar",
+    "mp": "Radha Mohan Singh",
+    "constituency": "PURVI CHAMPARAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-353",
+    "house": "LS",
+    "sr_no": 353,
+    "state": "Karnataka",
+    "mp": "RADHAKRISHNA",
+    "constituency": "GULBARGA(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-354",
+    "house": "LS",
+    "sr_no": 354,
+    "state": "Chhattisgarh",
+    "mp": "RADHE SHYAM RATHIYA",
+    "constituency": "RAIGARH(ST)",
+    "elected_nominated": null,
+    "allocated": 159706972.09
+  },
+  {
+    "id": "LS-355",
+    "house": "LS",
+    "sr_no": 355,
+    "state": "Uttar Pradesh",
+    "mp": "RAHUL GANDHI",
+    "constituency": "RAE BARELI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-356",
+    "house": "LS",
+    "sr_no": 356,
+    "state": "Rajasthan",
+    "mp": "Rahul Kaswan",
+    "constituency": "CHURU",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-357",
+    "house": "LS",
+    "sr_no": 357,
+    "state": "Madhya Pradesh",
+    "mp": "RAHUL SINGH LODHI",
+    "constituency": "DAMOH",
+    "elected_nominated": null,
+    "allocated": 163058785.37
+  },
+  {
+    "id": "LS-358",
+    "house": "LS",
+    "sr_no": 358,
+    "state": "Bihar",
+    "mp": "RAJ BHUSHAN CHOUDHARY",
+    "constituency": "MUZAFFARPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-359",
+    "house": "LS",
+    "sr_no": 359,
+    "state": "Rajasthan",
+    "mp": "RAJ KUMAR ROAT",
+    "constituency": "BANSWARA(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-360",
+    "house": "LS",
+    "sr_no": 360,
+    "state": "Bihar",
+    "mp": "RAJA RAM SINGH",
+    "constituency": "KARAKAT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-361",
+    "house": "LS",
+    "sr_no": 361,
+    "state": "Maharashtra",
+    "mp": "RAJABHAU",
+    "constituency": "NASHIK",
+    "elected_nominated": null,
+    "allocated": 152878682.11
+  },
+  {
+    "id": "LS-362",
+    "house": "LS",
+    "sr_no": 362,
+    "state": "Himachal Pradesh",
+    "mp": "RAJEEV BHARDWAJ",
+    "constituency": "KANGRA",
+    "elected_nominated": null,
+    "allocated": 179388967.11
+  },
+  {
+    "id": "LS-363",
+    "house": "LS",
+    "sr_no": 363,
+    "state": "Uttar Pradesh",
+    "mp": "RAJEEV RAI",
+    "constituency": "GHOSI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-364",
+    "house": "LS",
+    "sr_no": 364,
+    "state": "Bihar",
+    "mp": "RAJESH RANJAN ALIAS PAPPU YADAV",
+    "constituency": "PURNEA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-365",
+    "house": "LS",
+    "sr_no": 365,
+    "state": "Bihar",
+    "mp": "RAJESH VERMA",
+    "constituency": "KHAGARIA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-366",
+    "house": "LS",
+    "sr_no": 366,
+    "state": "Gujarat",
+    "mp": "Rajeshbhai Naranbhai Chudasama",
+    "constituency": "JUNAGADH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-367",
+    "house": "LS",
+    "sr_no": 367,
+    "state": "Bihar",
+    "mp": "Rajiv Pratap Rudy",
+    "constituency": "SARAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-368",
+    "house": "LS",
+    "sr_no": 368,
+    "state": "Bihar",
+    "mp": "Rajiv Ranjan (Lalan) Singh",
+    "constituency": "MUNGER",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-369",
+    "house": "LS",
+    "sr_no": 369,
+    "state": "Uttar Pradesh",
+    "mp": "Rajkumar Chahar",
+    "constituency": "FATEHPUR SIKRI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-370",
+    "house": "LS",
+    "sr_no": 370,
+    "state": "Uttar Pradesh",
+    "mp": "Rajnath Singh",
+    "constituency": "LUCKNOW",
+    "elected_nominated": null,
+    "allocated": 154808797.11
+  },
+  {
+    "id": "LS-371",
+    "house": "LS",
+    "sr_no": 371,
+    "state": "Gujarat",
+    "mp": "RAJPALSINH MAHENDRASINH JADAV",
+    "constituency": "PANCHMAHAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-372",
+    "house": "LS",
+    "sr_no": 372,
+    "state": "West Bengal",
+    "mp": "Raju Bista",
+    "constituency": "DARJEELING",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-373",
+    "house": "LS",
+    "sr_no": 373,
+    "state": "Uttar Pradesh",
+    "mp": "RAKESH RATHOR",
+    "constituency": "SITAPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-374",
+    "house": "LS",
+    "sr_no": 374,
+    "state": "Assam",
+    "mp": "RAKIBUL HUSSAIN",
+    "constituency": "DHUBRI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-375",
+    "house": "LS",
+    "sr_no": 375,
+    "state": "Uttar Pradesh",
+    "mp": "RAM PRASAD CHAUDHARY",
+    "constituency": "BASTI",
+    "elected_nominated": null,
+    "allocated": 204176957.11
+  },
+  {
+    "id": "LS-376",
+    "house": "LS",
+    "sr_no": 376,
+    "state": "Uttar Pradesh",
+    "mp": "Ram Shiromani",
+    "constituency": "SHRAWASTI",
+    "elected_nominated": null,
+    "allocated": 151746878.11
+  },
+  {
+    "id": "LS-377",
+    "house": "LS",
+    "sr_no": 377,
+    "state": "Telangana",
+    "mp": "RAMASAHAYAM RAGHURAM REDDY",
+    "constituency": "KHAMMAM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-378",
+    "house": "LS",
+    "sr_no": 378,
+    "state": "Uttar Pradesh",
+    "mp": "RAMASHANKAR RAJBHAR",
+    "constituency": "SALEMPUR",
+    "elected_nominated": null,
+    "allocated": 160056927.07
+  },
+  {
+    "id": "LS-379",
+    "house": "LS",
+    "sr_no": 379,
+    "state": "Uttar Pradesh",
+    "mp": "RAMBHUAL NISHAD",
+    "constituency": "SULTANPUR",
+    "elected_nominated": null,
+    "allocated": 151231957.11
+  },
+  {
+    "id": "LS-380",
+    "house": "LS",
+    "sr_no": 380,
+    "state": "Uttar Pradesh",
+    "mp": "RAMESH AWASTHI",
+    "constituency": "KANPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-381",
+    "house": "LS",
+    "sr_no": 381,
+    "state": "Karnataka",
+    "mp": "Ramesh Chandappa Jigajinagi",
+    "constituency": "BIJAPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 269500000
+  },
+  {
+    "id": "LS-382",
+    "house": "LS",
+    "sr_no": 382,
+    "state": "Bihar",
+    "mp": "Ramprit Mandal",
+    "constituency": "JHANJHARPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-383",
+    "house": "LS",
+    "sr_no": 383,
+    "state": "Delhi",
+    "mp": "Ramvir Singh Bidhuri",
+    "constituency": "SOUTH DELHI",
+    "elected_nominated": null,
+    "allocated": 147559100
+  },
+  {
+    "id": "LS-384",
+    "house": "LS",
+    "sr_no": 384,
+    "state": "Assam",
+    "mp": "RANJIT DUTTA",
+    "constituency": "Sonitpur",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-385",
+    "house": "LS",
+    "sr_no": 385,
+    "state": "Haryana",
+    "mp": "Rao Inderjit Singh",
+    "constituency": "GURGAON",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-386",
+    "house": "LS",
+    "sr_no": 386,
+    "state": "Rajasthan",
+    "mp": "Rao Rajendra Singh",
+    "constituency": "JAIPUR RURAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-387",
+    "house": "LS",
+    "sr_no": 387,
+    "state": "Bihar",
+    "mp": "Ravi Shankar Prasad",
+    "constituency": "PATNA SAHIB",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-388",
+    "house": "LS",
+    "sr_no": 388,
+    "state": "Maharashtra",
+    "mp": "RAVINDRA DATTARAM WAIKAR",
+    "constituency": "MUMBAI NORTH WEST",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-389",
+    "house": "LS",
+    "sr_no": 389,
+    "state": "Uttar Pradesh",
+    "mp": "Ravindra Shyamnarayan Alias Ravi Kishan Shukla",
+    "constituency": "GORAKHPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-390",
+    "house": "LS",
+    "sr_no": 390,
+    "state": "Maharashtra",
+    "mp": "Ravindra Vasantrao Chavan",
+    "constituency": "NANDED",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-391",
+    "house": "LS",
+    "sr_no": 391,
+    "state": "Mizoram",
+    "mp": "RICHARD VANLALHMANGAIHA",
+    "constituency": "MIZORAM (ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-392",
+    "house": "LS",
+    "sr_no": 392,
+    "state": "Tamil Nadu",
+    "mp": "ROBERT BRUCE C",
+    "constituency": "TIRUNELVELI",
+    "elected_nominated": null,
+    "allocated": 147475440.11
+  },
+  {
+    "id": "LS-393",
+    "house": "LS",
+    "sr_no": 393,
+    "state": "Madhya Pradesh",
+    "mp": "Rodmal Nagar",
+    "constituency": "RAJGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-394",
+    "house": "LS",
+    "sr_no": 394,
+    "state": "Chhattisgarh",
+    "mp": "ROOP KUMARI CHOUDHARY",
+    "constituency": "MAHASAMUND",
+    "elected_nominated": null,
+    "allocated": 153035414
+  },
+  {
+    "id": "LS-395",
+    "house": "LS",
+    "sr_no": 395,
+    "state": "Uttar Pradesh",
+    "mp": "RUCHI VIRA",
+    "constituency": "MORADABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-396",
+    "house": "LS",
+    "sr_no": 396,
+    "state": "Odisha",
+    "mp": "RUDRA NARAYAN PANY",
+    "constituency": "DHENKANAL",
+    "elected_nominated": null,
+    "allocated": 155013957.11
+  },
+  {
+    "id": "LS-397",
+    "house": "LS",
+    "sr_no": 397,
+    "state": "Nagaland",
+    "mp": "S SUPONGMEREN JAMIR",
+    "constituency": "NAGALAND",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-398",
+    "house": "LS",
+    "sr_no": 398,
+    "state": "Tamil Nadu",
+    "mp": "S Venkatesan",
+    "constituency": "MADURAI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-399",
+    "house": "LS",
+    "sr_no": 399,
+    "state": "Tamil Nadu",
+    "mp": "S. Jagathrakshakan",
+    "constituency": "ARAKKONAM",
+    "elected_nominated": null,
+    "allocated": 180589332.34
+  },
+  {
+    "id": "LS-400",
+    "house": "LS",
+    "sr_no": 400,
+    "state": "Tamil Nadu",
+    "mp": "SACHITHANANTHAM R",
+    "constituency": "DINDIGUL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-401",
+    "house": "LS",
+    "sr_no": 401,
+    "state": "Karnataka",
+    "mp": "SAGAR ESHWAR KHANDRE",
+    "constituency": "BIDAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-402",
+    "house": "LS",
+    "sr_no": 402,
+    "state": "Meghalaya",
+    "mp": "SALENG A SANGMA",
+    "constituency": "TURA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-403",
+    "house": "LS",
+    "sr_no": 403,
+    "state": "Odisha",
+    "mp": "SAMBIT PATRA",
+    "constituency": "PURI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-404",
+    "house": "LS",
+    "sr_no": 404,
+    "state": "Uttar Pradesh",
+    "mp": "SANATAN PANDEY",
+    "constituency": "BALLIA",
+    "elected_nominated": null,
+    "allocated": 180420041.4
+  },
+  {
+    "id": "LS-405",
+    "house": "LS",
+    "sr_no": 405,
+    "state": "Maharashtra",
+    "mp": "SANJAY DINA PATIL",
+    "constituency": "MUMBAI NORTH EAST",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-406",
+    "house": "LS",
+    "sr_no": 406,
+    "state": "Maharashtra",
+    "mp": "Sanjay Haribhau Jadhav",
+    "constituency": "PARBHANI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-407",
+    "house": "LS",
+    "sr_no": 407,
+    "state": "Bihar",
+    "mp": "Sanjay Jaiswal",
+    "constituency": "PASCHIM CHAMPARAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-408",
+    "house": "LS",
+    "sr_no": 408,
+    "state": "Telangana",
+    "mp": "Sanjay Kumar Bandi",
+    "constituency": "KARIMNAGAR",
+    "elected_nominated": null,
+    "allocated": 172775317.11
+  },
+  {
+    "id": "LS-409",
+    "house": "LS",
+    "sr_no": 409,
+    "state": "Jharkhand",
+    "mp": "Sanjay Seth",
+    "constituency": "RANCHI",
+    "elected_nominated": null,
+    "allocated": 147064357.11
+  },
+  {
+    "id": "LS-410",
+    "house": "LS",
+    "sr_no": 410,
+    "state": "Maharashtra",
+    "mp": "Sanjay Uttamrao Deshmukh",
+    "constituency": "YAVATMAL-WASHIM",
+    "elected_nominated": null,
+    "allocated": 185640423
+  },
+  {
+    "id": "LS-411",
+    "house": "LS",
+    "sr_no": 411,
+    "state": "Rajasthan",
+    "mp": "SANJNA JATAV",
+    "constituency": "BHARATPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-412",
+    "house": "LS",
+    "sr_no": 412,
+    "state": "Chhattisgarh",
+    "mp": "Santosh Pandey",
+    "constituency": "RAJNANDGAON",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-413",
+    "house": "LS",
+    "sr_no": 413,
+    "state": "Odisha",
+    "mp": "Saptagiri Sankar Ulaka",
+    "constituency": "KORAPUT(ST)",
+    "elected_nominated": null,
+    "allocated": 269500000
+  },
+  {
+    "id": "LS-414",
+    "house": "LS",
+    "sr_no": 414,
+    "state": "Punjab",
+    "mp": "SARABJEET SINGH KHALSA",
+    "constituency": "FARIDKOT(SC)",
+    "elected_nominated": null,
+    "allocated": 150850348.15
+  },
+  {
+    "id": "LS-415",
+    "house": "LS",
+    "sr_no": 415,
+    "state": "Tamil Nadu",
+    "mp": "Sasikanth Senthil",
+    "constituency": "TIRUVALLUR(SC)",
+    "elected_nominated": null,
+    "allocated": 171500000
+  },
+  {
+    "id": "LS-416",
+    "house": "LS",
+    "sr_no": 416,
+    "state": "Haryana",
+    "mp": "SATPAL BRAHAMCHARI",
+    "constituency": "SONEPAT",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-417",
+    "house": "LS",
+    "sr_no": 417,
+    "state": "West Bengal",
+    "mp": "Saumitra khan",
+    "constituency": "BISHNUPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-418",
+    "house": "LS",
+    "sr_no": 418,
+    "state": "Madhya Pradesh",
+    "mp": "SAVITRI THAKUR",
+    "constituency": "DHAR(ST)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-419",
+    "house": "LS",
+    "sr_no": 419,
+    "state": "West Bengal",
+    "mp": "SAYANI GHOSH",
+    "constituency": "JADAVPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-420",
+    "house": "LS",
+    "sr_no": 420,
+    "state": "Haryana",
+    "mp": "SELJA",
+    "constituency": "SIRSA(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-421",
+    "house": "LS",
+    "sr_no": 421,
+    "state": "Tamil Nadu",
+    "mp": "SELVAGANAPATHI T M",
+    "constituency": "SALEM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-422",
+    "house": "LS",
+    "sr_no": 422,
+    "state": "Tamil Nadu",
+    "mp": "SELVARAJ V",
+    "constituency": "NAGAPATTINAM(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-423",
+    "house": "LS",
+    "sr_no": 423,
+    "state": "Kerala",
+    "mp": "SHAFI PARAMBIL",
+    "constituency": "VADAKARA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-424",
+    "house": "LS",
+    "sr_no": 424,
+    "state": "Bihar",
+    "mp": "SHAMBHAVI",
+    "constituency": "SAMASTIPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-425",
+    "house": "LS",
+    "sr_no": 425,
+    "state": "Madhya Pradesh",
+    "mp": "Shankar Lalwani",
+    "constituency": "INDORE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-426",
+    "house": "LS",
+    "sr_no": 426,
+    "state": "Uttar Pradesh",
+    "mp": "SHASHANK MANI",
+    "constituency": "DEORIA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-427",
+    "house": "LS",
+    "sr_no": 427,
+    "state": "West Bengal",
+    "mp": "Shatrughan Sinha",
+    "constituency": "ASANSOL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-428",
+    "house": "LS",
+    "sr_no": 428,
+    "state": "Punjab",
+    "mp": "SHER SINGH GHUBAYA",
+    "constituency": "FIROZPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-429",
+    "house": "LS",
+    "sr_no": 429,
+    "state": "Madhya Pradesh",
+    "mp": "SHIVMANGAL SINGH TOMAR",
+    "constituency": "MORENA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-430",
+    "house": "LS",
+    "sr_no": 430,
+    "state": "Madhya Pradesh",
+    "mp": "SHIVRAJ SINGH CHOUHAN",
+    "constituency": "VIDISHA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-431",
+    "house": "LS",
+    "sr_no": 431,
+    "state": "Karnataka",
+    "mp": "SHOBHA KARANDLAJE",
+    "constituency": "BANGALORE NORTH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-432",
+    "house": "LS",
+    "sr_no": 432,
+    "state": "Gujarat",
+    "mp": "SHOBHANABEN MAHENDRASINH BARAIYA",
+    "constituency": "SABARKANTHA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-433",
+    "house": "LS",
+    "sr_no": 433,
+    "state": "Karnataka",
+    "mp": "SHREYAS. M. PATEL",
+    "constituency": "HASSAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-434",
+    "house": "LS",
+    "sr_no": 434,
+    "state": "Haryana",
+    "mp": "Shri  Dharambir Singh",
+    "constituency": "BHIWANI MAHENDRAGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-435",
+    "house": "LS",
+    "sr_no": 435,
+    "state": "West Bengal",
+    "mp": "Shri Abhishek Banerjee",
+    "constituency": "DIAMOND HARBOUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-436",
+    "house": "LS",
+    "sr_no": 436,
+    "state": "Punjab",
+    "mp": "Shri Amar Singh",
+    "constituency": "FATEHGARH SAHIB(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-437",
+    "house": "LS",
+    "sr_no": 437,
+    "state": "Gujarat",
+    "mp": "Shri Amit Shah",
+    "constituency": "GANDHINAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-438",
+    "house": "LS",
+    "sr_no": 438,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Anil Firojiya",
+    "constituency": "UJJAIN(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-439",
+    "house": "LS",
+    "sr_no": 439,
+    "state": "Rajasthan",
+    "mp": "Shri Arjun Ram Meghwal",
+    "constituency": "BIKANER(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-440",
+    "house": "LS",
+    "sr_no": 440,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Arun Kumar Sagar",
+    "constituency": "SHAHJAHANPUR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-441",
+    "house": "LS",
+    "sr_no": 441,
+    "state": "Karnataka",
+    "mp": "Shri B Y Raghavendra",
+    "constituency": "SHIMOGA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-442",
+    "house": "LS",
+    "sr_no": 442,
+    "state": "Kerala",
+    "mp": "Shri Benny Behanan",
+    "constituency": "CHALAKUDY",
+    "elected_nominated": null,
+    "allocated": 164674770.11
+  },
+  {
+    "id": "LS-443",
+    "house": "LS",
+    "sr_no": 443,
+    "state": "Odisha",
+    "mp": "Shri Bhartruhari Mahtab",
+    "constituency": "CUTTACK",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-444",
+    "house": "LS",
+    "sr_no": 444,
+    "state": "Jharkhand",
+    "mp": "Shri Chandra Prakash Choudhary",
+    "constituency": "GIRIDIH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-445",
+    "house": "LS",
+    "sr_no": 445,
+    "state": "West Bengal",
+    "mp": "Shri Deepak (Dev) Adhikari",
+    "constituency": "GHATAL",
+    "elected_nominated": null,
+    "allocated": 200747364
+  },
+  {
+    "id": "LS-446",
+    "house": "LS",
+    "sr_no": 446,
+    "state": "Punjab",
+    "mp": "Shri Gurjeet Singh Aujla",
+    "constituency": "AMRITSAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-447",
+    "house": "LS",
+    "sr_no": 447,
+    "state": "Rajasthan",
+    "mp": "Shri Hanuman Beniwal",
+    "constituency": "NAGAUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-448",
+    "house": "LS",
+    "sr_no": 448,
+    "state": "Kerala",
+    "mp": "Shri Hibi Eden",
+    "constituency": "ERNAKULAM",
+    "elected_nominated": null,
+    "allocated": 162177260.11
+  },
+  {
+    "id": "LS-449",
+    "house": "LS",
+    "sr_no": 449,
+    "state": "Bihar",
+    "mp": "Shri Janardan Singh Sigriwal",
+    "constituency": "MAHARAJGANJ_BR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-450",
+    "house": "LS",
+    "sr_no": 450,
+    "state": "Odisha",
+    "mp": "Shri Jual Oram",
+    "constituency": "SUNDARGARH (ST)",
+    "elected_nominated": null,
+    "allocated": 173096756.91
+  },
+  {
+    "id": "LS-451",
+    "house": "LS",
+    "sr_no": 451,
+    "state": "Jammu And Kashmir",
+    "mp": "Shri Jugal Kishore Sharma",
+    "constituency": "JAMMU",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-452",
+    "house": "LS",
+    "sr_no": 452,
+    "state": "West Bengal",
+    "mp": "Shri Jyotirmay Singh Mahato",
+    "constituency": "PURULIA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-453",
+    "house": "LS",
+    "sr_no": 453,
+    "state": "Tamil Nadu",
+    "mp": "Shri Karti P Chidambaram",
+    "constituency": "SIVAGANGA",
+    "elected_nominated": null,
+    "allocated": 159049284.11
+  },
+  {
+    "id": "LS-454",
+    "house": "LS",
+    "sr_no": 454,
+    "state": "Kerala",
+    "mp": "Shri Kumbakudi Sudhakaran",
+    "constituency": "KANNUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-455",
+    "house": "LS",
+    "sr_no": 455,
+    "state": "Karnataka",
+    "mp": "Shri LS Tejasvi Surya",
+    "constituency": "BANGALORE SOUTH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-456",
+    "house": "LS",
+    "sr_no": 456,
+    "state": "Kerala",
+    "mp": "Shri M K Raghavan",
+    "constituency": "KOZHIKODE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-457",
+    "house": "LS",
+    "sr_no": 457,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Narendra Modi",
+    "constituency": "VARANASI",
+    "elected_nominated": null,
+    "allocated": 162070276.11
+  },
+  {
+    "id": "LS-458",
+    "house": "LS",
+    "sr_no": 458,
+    "state": "Kerala",
+    "mp": "Shri NK Premachandran",
+    "constituency": "KOLLAM",
+    "elected_nominated": null,
+    "allocated": 171477994.11
+  },
+  {
+    "id": "LS-459",
+    "house": "LS",
+    "sr_no": 459,
+    "state": "Rajasthan",
+    "mp": "Shri PP Chaudhary",
+    "constituency": "PALI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-460",
+    "house": "LS",
+    "sr_no": 460,
+    "state": "Kerala",
+    "mp": "Shri Rajmohan Unnithan",
+    "constituency": "KASARAGOD",
+    "elected_nominated": null,
+    "allocated": 156754633.11
+  },
+  {
+    "id": "LS-461",
+    "house": "LS",
+    "sr_no": 461,
+    "state": "Assam",
+    "mp": "Shri Sarbananda Sonowal (18LS)",
+    "constituency": "DIBRUGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-462",
+    "house": "LS",
+    "sr_no": 462,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Satish Kumar Gautam",
+    "constituency": "ALIGARH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-463",
+    "house": "LS",
+    "sr_no": 463,
+    "state": "West Bengal",
+    "mp": "Shri Shantanu Thakur",
+    "constituency": "BANGAON(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-464",
+    "house": "LS",
+    "sr_no": 464,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Sudheer Gupta",
+    "constituency": "MANDSOUR",
+    "elected_nominated": null,
+    "allocated": 148988014.83
+  },
+  {
+    "id": "LS-465",
+    "house": "LS",
+    "sr_no": 465,
+    "state": "Kerala",
+    "mp": "Shri Suresh Kodikunnil",
+    "constituency": "MAVELIKKARA(SC)",
+    "elected_nominated": null,
+    "allocated": 172429519.11
+  },
+  {
+    "id": "LS-466",
+    "house": "LS",
+    "sr_no": 466,
+    "state": "Arunachal Pradesh",
+    "mp": "Shri Tapir Gao",
+    "constituency": "ARUNACHAL EAST",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-467",
+    "house": "LS",
+    "sr_no": 467,
+    "state": "Tamil Nadu",
+    "mp": "Shri vijayakumar Vasanth",
+    "constituency": "KANNIYAKUMARI",
+    "elected_nominated": null,
+    "allocated": 171500000
+  },
+  {
+    "id": "LS-468",
+    "house": "LS",
+    "sr_no": 468,
+    "state": "Maharashtra",
+    "mp": "Shrikant Eknath Shinde",
+    "constituency": "KALYAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-469",
+    "house": "LS",
+    "sr_no": 469,
+    "state": "Maharashtra",
+    "mp": "SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE",
+    "constituency": "SATARA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-470",
+    "house": "LS",
+    "sr_no": 470,
+    "state": "Goa",
+    "mp": "Shripad Yesso Naik",
+    "constituency": "NORTH GOA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-471",
+    "house": "LS",
+    "sr_no": 471,
+    "state": "Maharashtra",
+    "mp": "Shrirang Appa Barne",
+    "constituency": "MAVAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-472",
+    "house": "LS",
+    "sr_no": 472,
+    "state": "Maharashtra",
+    "mp": "Shyamkumar",
+    "constituency": "RAMTEK(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-473",
+    "house": "LS",
+    "sr_no": 473,
+    "state": "Andhra Pradesh",
+    "mp": "Sivanath Kesineni",
+    "constituency": "VIJAYAWADA",
+    "elected_nominated": null,
+    "allocated": 159864032.49
+  },
+  {
+    "id": "LS-474",
+    "house": "LS",
+    "sr_no": 474,
+    "state": "West Bengal",
+    "mp": "SK NURUL ISLAM",
+    "constituency": "BASIRHAT",
+    "elected_nominated": null,
+    "allocated": 49000000
+  },
+  {
+    "id": "LS-475",
+    "house": "LS",
+    "sr_no": 475,
+    "state": "Maharashtra",
+    "mp": "SMITA UDAY WAGH",
+    "constituency": "JALGAON",
+    "elected_nominated": null,
+    "allocated": 148107373.11
+  },
+  {
+    "id": "LS-476",
+    "house": "LS",
+    "sr_no": 476,
+    "state": "Uttar Pradesh",
+    "mp": "Smt Anupriya Patel",
+    "constituency": "MIRZAPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-477",
+    "house": "LS",
+    "sr_no": 477,
+    "state": "Odisha",
+    "mp": "Smt Aparajita Sarangi",
+    "constituency": "BHUBANESWAR",
+    "elected_nominated": null,
+    "allocated": 147420861.41
+  },
+  {
+    "id": "LS-478",
+    "house": "LS",
+    "sr_no": 478,
+    "state": "Uttar Pradesh",
+    "mp": "Smt Dimple Yadav",
+    "constituency": "MAINPURI",
+    "elected_nominated": null,
+    "allocated": 192042469.11
+  },
+  {
+    "id": "LS-479",
+    "house": "LS",
+    "sr_no": 479,
+    "state": "Punjab",
+    "mp": "Smt Harsimrat Kaur Badal",
+    "constituency": "BHATINDA",
+    "elected_nominated": null,
+    "allocated": 159775982.39
+  },
+  {
+    "id": "LS-480",
+    "house": "LS",
+    "sr_no": 480,
+    "state": "Uttar Pradesh",
+    "mp": "Smt Hema Malini",
+    "constituency": "MATHURA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-481",
+    "house": "LS",
+    "sr_no": 481,
+    "state": "Madhya Pradesh",
+    "mp": "Smt Himadri Singh",
+    "constituency": "SHAHDOL (ST)",
+    "elected_nominated": null,
+    "allocated": 150724861.11
+  },
+  {
+    "id": "LS-482",
+    "house": "LS",
+    "sr_no": 482,
+    "state": "Gujarat",
+    "mp": "Smt Poonamben Hematbhai Maadam",
+    "constituency": "JAMNAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-483",
+    "house": "LS",
+    "sr_no": 483,
+    "state": "Maharashtra",
+    "mp": "Smt Raksha Nikhil Khadse",
+    "constituency": "RAVER",
+    "elected_nominated": null,
+    "allocated": 153112586.11
+  },
+  {
+    "id": "LS-484",
+    "house": "LS",
+    "sr_no": 484,
+    "state": "Tamil Nadu",
+    "mp": "Smt S Jothimani",
+    "constituency": "KARUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-485",
+    "house": "LS",
+    "sr_no": 485,
+    "state": "West Bengal",
+    "mp": "Smt Sajda Ahmed",
+    "constituency": "ULUBERIA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-486",
+    "house": "LS",
+    "sr_no": 486,
+    "state": "Madhya Pradesh",
+    "mp": "Smt Sandhya Ray",
+    "constituency": "BHIND(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-487",
+    "house": "LS",
+    "sr_no": 487,
+    "state": "Odisha",
+    "mp": "Smt Sangeeta Kumari Singh Deo",
+    "constituency": "BOLANGIR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-488",
+    "house": "LS",
+    "sr_no": 488,
+    "state": "West Bengal",
+    "mp": "Smt Satabdi Roy (Banerjee)",
+    "constituency": "BIRBHUM",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-489",
+    "house": "LS",
+    "sr_no": 489,
+    "state": "Maharashtra",
+    "mp": "Smt Supriya Sadanand Sule",
+    "constituency": "BARAMATI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-490",
+    "house": "LS",
+    "sr_no": 490,
+    "state": "Bihar",
+    "mp": "Smt Veena Devi",
+    "constituency": "VAISHALI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-491",
+    "house": "LS",
+    "sr_no": 491,
+    "state": "Andhra Pradesh",
+    "mp": "Sribharat MathuKumli",
+    "constituency": "VISAKHAPATNAM",
+    "elected_nominated": null,
+    "allocated": 164841922
+  },
+  {
+    "id": "LS-492",
+    "house": "LS",
+    "sr_no": 492,
+    "state": "Bihar",
+    "mp": "SUDAMA PRASAD",
+    "constituency": "ARRAH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-493",
+    "house": "LS",
+    "sr_no": 493,
+    "state": "Tamil Nadu",
+    "mp": "SUDHA R",
+    "constituency": "MAYILADUTHURAI",
+    "elected_nominated": null,
+    "allocated": 147332315.11
+  },
+  {
+    "id": "LS-494",
+    "house": "LS",
+    "sr_no": 494,
+    "state": "Bihar",
+    "mp": "SUDHAKAR SINGH",
+    "constituency": "BUXAR",
+    "elected_nominated": null,
+    "allocated": 185211956.54
+  },
+  {
+    "id": "LS-495",
+    "house": "LS",
+    "sr_no": 495,
+    "state": "West Bengal",
+    "mp": "Sudip Bandyopadhyay",
+    "constituency": "KOLKATA UTTAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-496",
+    "house": "LS",
+    "sr_no": 496,
+    "state": "Odisha",
+    "mp": "SUKANTA KUMAR PANIGRAHI",
+    "constituency": "KANDHAMAL",
+    "elected_nominated": null,
+    "allocated": 190712424.11
+  },
+  {
+    "id": "LS-497",
+    "house": "LS",
+    "sr_no": 497,
+    "state": "Jharkhand",
+    "mp": "SUKHDEO BHAGAT",
+    "constituency": "LOHARDAGA(ST)",
+    "elected_nominated": null,
+    "allocated": 171821957.11
+  },
+  {
+    "id": "LS-498",
+    "house": "LS",
+    "sr_no": 498,
+    "state": "Punjab",
+    "mp": "SUKHJINDER SINGH RANDHAWA",
+    "constituency": "GURDASPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-499",
+    "house": "LS",
+    "sr_no": 499,
+    "state": "Karnataka",
+    "mp": "SUNIL BOSE",
+    "constituency": "CHAMARAJANAGAR(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-500",
+    "house": "LS",
+    "sr_no": 500,
+    "state": "Maharashtra",
+    "mp": "Sunil Dattatray Tatkare",
+    "constituency": "RAIGAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-501",
+    "house": "LS",
+    "sr_no": 501,
+    "state": "Bihar",
+    "mp": "Sunil Kumar",
+    "constituency": "VALMIKI NAGAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-502",
+    "house": "LS",
+    "sr_no": 502,
+    "state": "Bihar",
+    "mp": "SURENDRA PRASAD YADAV",
+    "constituency": "JAHANABAD",
+    "elected_nominated": null,
+    "allocated": 155325714
+  },
+  {
+    "id": "LS-503",
+    "house": "LS",
+    "sr_no": 503,
+    "state": "Kerala",
+    "mp": "SURESH GOPI",
+    "constituency": "THRISSUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-504",
+    "house": "LS",
+    "sr_no": 504,
+    "state": "Himachal Pradesh",
+    "mp": "Suresh Kumar Kashyap",
+    "constituency": "SHIMLA (SC)",
+    "elected_nominated": null,
+    "allocated": 153563957.11
+  },
+  {
+    "id": "LS-505",
+    "house": "LS",
+    "sr_no": 505,
+    "state": "Telangana",
+    "mp": "SURESH KUMAR SHETKAR",
+    "constituency": "ZAHIRABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-506",
+    "house": "LS",
+    "sr_no": 506,
+    "state": "Uttar Pradesh",
+    "mp": "Swami Sachchidanandhari Sakshi ji Maharaj",
+    "constituency": "UNNAO",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-507",
+    "house": "LS",
+    "sr_no": 507,
+    "state": "Tamil Nadu",
+    "mp": "T Sumathy (A) Thamizhachi Thangapandian",
+    "constituency": "CHENNAI SOUTH",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-508",
+    "house": "LS",
+    "sr_no": 508,
+    "state": "Andhra Pradesh",
+    "mp": "TANGELLA UDAY SRINIVAS",
+    "constituency": "KAKINADA",
+    "elected_nominated": null,
+    "allocated": 199417886.76
+  },
+  {
+    "id": "LS-509",
+    "house": "LS",
+    "sr_no": 509,
+    "state": "Uttar Pradesh",
+    "mp": "TANUJ PUNIA",
+    "constituency": "BARABANKI(SC)",
+    "elected_nominated": null,
+    "allocated": 148198170.11
+  },
+  {
+    "id": "LS-510",
+    "house": "LS",
+    "sr_no": 510,
+    "state": "Bihar",
+    "mp": "TARIQ ANWAR",
+    "constituency": "KATIHAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-511",
+    "house": "LS",
+    "sr_no": 511,
+    "state": "Tamil Nadu",
+    "mp": "Thalikkottai Rajuthevar Baalu",
+    "constituency": "SRIPERUMBUDUR",
+    "elected_nominated": null,
+    "allocated": 196905535.11
+  },
+  {
+    "id": "LS-512",
+    "house": "LS",
+    "sr_no": 512,
+    "state": "Tamil Nadu",
+    "mp": "THANGA TAMILSELVAN",
+    "constituency": "THENI",
+    "elected_nominated": null,
+    "allocated": 167755939.81
+  },
+  {
+    "id": "LS-513",
+    "house": "LS",
+    "sr_no": 513,
+    "state": "Tamil Nadu",
+    "mp": "THARANIVENTHAN M S",
+    "constituency": "ARANI",
+    "elected_nominated": null,
+    "allocated": 168337124.35
+  },
+  {
+    "id": "LS-514",
+    "house": "LS",
+    "sr_no": 514,
+    "state": "Tamil Nadu",
+    "mp": "Thiru Dayanidhi Maran",
+    "constituency": "CHENNAI CENTRAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-515",
+    "house": "LS",
+    "sr_no": 515,
+    "state": "Tamil Nadu",
+    "mp": "Thirumaa Valavan Thol",
+    "constituency": "CHIDAMBARAM(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-516",
+    "house": "LS",
+    "sr_no": 516,
+    "state": "Chhattisgarh",
+    "mp": "TOKHAN SAHU",
+    "constituency": "BILASPUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-517",
+    "house": "LS",
+    "sr_no": 517,
+    "state": "Uttarakhand",
+    "mp": "TRIVENDRA SINGH RAWAT",
+    "constituency": "HARDWAR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-518",
+    "house": "LS",
+    "sr_no": 518,
+    "state": "Uttar Pradesh",
+    "mp": "UJJWAL RAMAN SINGH",
+    "constituency": "ALLAHABAD",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-519",
+    "house": "LS",
+    "sr_no": 519,
+    "state": "Rajasthan",
+    "mp": "UMMEDA RAM BENIWAL",
+    "constituency": "BARMER",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-520",
+    "house": "LS",
+    "sr_no": 520,
+    "state": "Uttar Pradesh",
+    "mp": "UTKARSH VERMA MADHUR",
+    "constituency": "KHERI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-521",
+    "house": "LS",
+    "sr_no": 521,
+    "state": "Tamil Nadu",
+    "mp": "V S Matheswaran",
+    "constituency": "NAMAKKAL",
+    "elected_nominated": null,
+    "allocated": 162539930.11
+  },
+  {
+    "id": "LS-522",
+    "house": "LS",
+    "sr_no": 522,
+    "state": "Karnataka",
+    "mp": "V. SOMANNA",
+    "constituency": "TUMKUR",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-523",
+    "house": "LS",
+    "sr_no": 523,
+    "state": "Puducherry",
+    "mp": "Vaithilingam Ve",
+    "constituency": "Puducherry",
+    "elected_nominated": null,
+    "allocated": 209368972.11
+  },
+  {
+    "id": "LS-524",
+    "house": "LS",
+    "sr_no": 524,
+    "state": "Telangana",
+    "mp": "VAMSI KRISHNA GADDAM",
+    "constituency": "PEDDAPALLE",
+    "elected_nominated": null,
+    "allocated": 148451721.11
+  },
+  {
+    "id": "LS-525",
+    "house": "LS",
+    "sr_no": 525,
+    "state": "Haryana",
+    "mp": "VARUN CHAUDHRY",
+    "constituency": "AMBALA (SC)",
+    "elected_nominated": null,
+    "allocated": 255454264
+  },
+  {
+    "id": "LS-526",
+    "house": "LS",
+    "sr_no": 526,
+    "state": "Kerala",
+    "mp": "Vellalath Kochukrishnan Nair Sreekandan",
+    "constituency": "PALAKKAD",
+    "elected_nominated": null,
+    "allocated": 167807990.11
+  },
+  {
+    "id": "LS-527",
+    "house": "LS",
+    "sr_no": 527,
+    "state": "Chhattisgarh",
+    "mp": "Vijay Baghel",
+    "constituency": "DURG",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-528",
+    "house": "LS",
+    "sr_no": 528,
+    "state": "Uttar Pradesh",
+    "mp": "Vijay Kumar Dubey",
+    "constituency": "KUSHI NAGAR",
+    "elected_nominated": null,
+    "allocated": 148900000
+  },
+  {
+    "id": "LS-529",
+    "house": "LS",
+    "sr_no": 529,
+    "state": "Jharkhand",
+    "mp": "Vijay Kumar Hansdak",
+    "constituency": "RAJMAHAL(ST)",
+    "elected_nominated": null,
+    "allocated": 147223957.11
+  },
+  {
+    "id": "LS-530",
+    "house": "LS",
+    "sr_no": 530,
+    "state": "Bihar",
+    "mp": "VIJAYLAKSHMI DEVI",
+    "constituency": "SIWAN",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-531",
+    "house": "LS",
+    "sr_no": 531,
+    "state": "Gujarat",
+    "mp": "Vinod Chavda",
+    "constituency": "KACHCHH(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-532",
+    "house": "LS",
+    "sr_no": 532,
+    "state": "Uttar Pradesh",
+    "mp": "VINOD KUMAR BIND",
+    "constituency": "BHADOHI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-533",
+    "house": "LS",
+    "sr_no": 533,
+    "state": "Madhya Pradesh",
+    "mp": "Virendra Kumar",
+    "constituency": "TIKAMGARH(SC)",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-534",
+    "house": "LS",
+    "sr_no": 534,
+    "state": "Uttar Pradesh",
+    "mp": "VIRENDRA SINGH",
+    "constituency": "CHANDAULI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-535",
+    "house": "LS",
+    "sr_no": 535,
+    "state": "Maharashtra",
+    "mp": "VISHAL",
+    "constituency": "SANGLI",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-536",
+    "house": "LS",
+    "sr_no": 536,
+    "state": "Jharkhand",
+    "mp": "Vishnu Dayal Ram",
+    "constituency": "PALAMU(SC)",
+    "elected_nominated": null,
+    "allocated": 158176083.11
+  },
+  {
+    "id": "LS-537",
+    "house": "LS",
+    "sr_no": 537,
+    "state": "Madhya Pradesh",
+    "mp": "Vishnu Dutt Sharma",
+    "constituency": "KHAJURAHO",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-538",
+    "house": "LS",
+    "sr_no": 538,
+    "state": "Karnataka",
+    "mp": "VISHWESHWAR HEGDE KAGERI",
+    "constituency": "UTTARA KANNADA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-539",
+    "house": "LS",
+    "sr_no": 539,
+    "state": "Bihar",
+    "mp": "VIVEK THAKUR",
+    "constituency": "NAWADA",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-540",
+    "house": "LS",
+    "sr_no": 540,
+    "state": "Andhra Pradesh",
+    "mp": "Y S Avinash Reddy",
+    "constituency": "KADAPA",
+    "elected_nominated": null,
+    "allocated": 156430260.11
+  },
+  {
+    "id": "LS-541",
+    "house": "LS",
+    "sr_no": 541,
+    "state": "Karnataka",
+    "mp": "YADUVEER KRISHNADATTA CHAMARAJA WADIYAR",
+    "constituency": "MYSORE",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "LS-542",
+    "house": "LS",
+    "sr_no": 542,
+    "state": "Delhi",
+    "mp": "Yogendra Chandoliya",
+    "constituency": "NORTH WEST DELHI(SC)",
+    "elected_nominated": null,
+    "allocated": 147876307
+  },
+  {
+    "id": "LS-543",
+    "house": "LS",
+    "sr_no": 543,
+    "state": "Uttar Pradesh",
+    "mp": "ZIA UR REHMAN",
+    "constituency": "SAMBHAL",
+    "elected_nominated": null,
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-1",
+    "house": "RS",
+    "sr_no": 1,
+    "state": "Telangana",
+    "mp": "Dr. Abhishek Manu Singhvi (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 73421449
+  },
+  {
+    "id": "RS-2",
+    "house": "RS",
+    "sr_no": 2,
+    "state": "Maharashtra",
+    "mp": "Dr. Ajeet Madhavrao Gopchade (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-3",
+    "house": "RS",
+    "sr_no": 3,
+    "state": "Rajasthan",
+    "mp": "Dr. Alka Singh (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-4",
+    "house": "RS",
+    "sr_no": 4,
+    "state": "Tamil Nadu",
+    "mp": "Dr. Anbumani Ramadoss (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49356476.5
+  },
+  {
+    "id": "RS-5",
+    "house": "RS",
+    "sr_no": 5,
+    "state": "Maharashtra",
+    "mp": "Dr. Anil Sukhdeorao Bonde (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-6",
+    "house": "RS",
+    "sr_no": 6,
+    "state": "Punjab",
+    "mp": "Dr. Ashok Kumar Mittal (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 222487632.14
+  },
+  {
+    "id": "RS-7",
+    "house": "RS",
+    "sr_no": 7,
+    "state": "Bihar",
+    "mp": "Dr. Bhim Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 186200000
+  },
+  {
+    "id": "RS-8",
+    "house": "RS",
+    "sr_no": 8,
+    "state": "Karnataka",
+    "mp": "Dr. Dharmasthala Veerendra Heggade (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-9",
+    "house": "RS",
+    "sr_no": 9,
+    "state": "Bihar",
+    "mp": "Dr. Dharmshila Gupta (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 186200000
+  },
+  {
+    "id": "RS-10",
+    "house": "RS",
+    "sr_no": 10,
+    "state": "Uttar Pradesh",
+    "mp": "Dr. Dinesh Sharma (2023-26) (2023-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-11",
+    "house": "RS",
+    "sr_no": 11,
+    "state": "Bihar",
+    "mp": "Dr. Faiyaz Ahmad (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 235263957.11
+  },
+  {
+    "id": "RS-12",
+    "house": "RS",
+    "sr_no": 12,
+    "state": "Kerala",
+    "mp": "Dr. John Brittas (2021-27) (2021-2027)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 245063957.11
+  },
+  {
+    "id": "RS-13",
+    "house": "RS",
+    "sr_no": 13,
+    "state": "Maharashtra",
+    "mp": "Dr. Jyoti Nagnath Waghmare (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-14",
+    "house": "RS",
+    "sr_no": 14,
+    "state": "Uttar Pradesh",
+    "mp": "Dr. K. Laxman (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 197637007.11
+  },
+  {
+    "id": "RS-15",
+    "house": "RS",
+    "sr_no": 15,
+    "state": "Uttarakhand",
+    "mp": "Dr. Kalpana Saini (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 200830405.8
+  },
+  {
+    "id": "RS-16",
+    "house": "RS",
+    "sr_no": 16,
+    "state": "Madhya Pradesh",
+    "mp": "Dr. Kavita Patidar (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 197118521.35000002
+  },
+  {
+    "id": "RS-17",
+    "house": "RS",
+    "sr_no": 17,
+    "state": "Madhya Pradesh",
+    "mp": "Dr. L. Murugan (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-18",
+    "house": "RS",
+    "sr_no": 18,
+    "state": "Uttar Pradesh",
+    "mp": "Dr. Laxmikant Bajpayee (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196000000
+  },
+  {
+    "id": "RS-19",
+    "house": "RS",
+    "sr_no": 19,
+    "state": "Tamil Nadu",
+    "mp": "Dr. M. Dhanapal (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 89248285.42
+  },
+  {
+    "id": "RS-20",
+    "house": "RS",
+    "sr_no": 20,
+    "state": "Tamil Nadu",
+    "mp": "Dr. M. Thambi Durai (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49356476.5
+  },
+  {
+    "id": "RS-21",
+    "house": "RS",
+    "sr_no": 21,
+    "state": "Maharashtra",
+    "mp": "Dr. Medha Vishram Kulkarni (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-22",
+    "house": "RS",
+    "sr_no": 22,
+    "state": "Delhi",
+    "mp": "Dr. Meenakshi Jain (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-23",
+    "house": "RS",
+    "sr_no": 23,
+    "state": "Gujarat",
+    "mp": "Dr. Mukeshbhai J. Rathwa (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-24",
+    "house": "RS",
+    "sr_no": 24,
+    "state": "Gujarat",
+    "mp": "Dr. Parmar Jashvantsinh Salamsinh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-25",
+    "house": "RS",
+    "sr_no": 25,
+    "state": "Uttar Pradesh",
+    "mp": "Dr. Radha Mohan Das Agrawal (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 203626524.67000002
+  },
+  {
+    "id": "RS-26",
+    "house": "RS",
+    "sr_no": 26,
+    "state": "Punjab",
+    "mp": "Dr. Sandeep Kumar Pathak (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 232203454.24
+  },
+  {
+    "id": "RS-27",
+    "house": "RS",
+    "sr_no": 27,
+    "state": "Uttar Pradesh",
+    "mp": "Dr. Sangeeta Balwant (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-28",
+    "house": "RS",
+    "sr_no": 28,
+    "state": "Odisha",
+    "mp": "Dr. Santrupt Misra (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-29",
+    "house": "RS",
+    "sr_no": 29,
+    "state": "Jharkhand",
+    "mp": "Dr. Sarfraz Ahmad (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 178564551.09
+  },
+  {
+    "id": "RS-30",
+    "house": "RS",
+    "sr_no": 30,
+    "state": "Odisha",
+    "mp": "Dr. Sasmit Patra (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-31",
+    "house": "RS",
+    "sr_no": 31,
+    "state": "Rajasthan",
+    "mp": "Dr. Satish Poonia (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-32",
+    "house": "RS",
+    "sr_no": 32,
+    "state": "Himachal Pradesh",
+    "mp": "Dr. Sikander Kumar (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 207863957.11
+  },
+  {
+    "id": "RS-33",
+    "house": "RS",
+    "sr_no": 33,
+    "state": "Uttar Pradesh",
+    "mp": "Dr. Sudhanshu Trivedi (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-34",
+    "house": "RS",
+    "sr_no": 34,
+    "state": "Karnataka",
+    "mp": "Dr. Syed Naseer Hussain (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-35",
+    "house": "RS",
+    "sr_no": 35,
+    "state": "Kerala",
+    "mp": "Dr. V. Sivadasan (2021-27) (2021-2027)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 276720323.27
+  },
+  {
+    "id": "RS-36",
+    "house": "RS",
+    "sr_no": 36,
+    "state": "Punjab",
+    "mp": "Dr. Vikramjit Singh Sahney (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 198656208.57000002
+  },
+  {
+    "id": "RS-37",
+    "house": "RS",
+    "sr_no": 37,
+    "state": "West Bengal",
+    "mp": "Ms. Dola Sen (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-38",
+    "house": "RS",
+    "sr_no": 38,
+    "state": "Delhi",
+    "mp": "Ms. Swati Maliwal (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-39",
+    "house": "RS",
+    "sr_no": 39,
+    "state": "Bihar",
+    "mp": "Prof. Manoj Kumar Jha (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 191620112.11
+  },
+  {
+    "id": "RS-40",
+    "house": "RS",
+    "sr_no": 40,
+    "state": "Uttar Pradesh",
+    "mp": "Prof. Ram Gopal Yadav (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 221271395.11
+  },
+  {
+    "id": "RS-41",
+    "house": "RS",
+    "sr_no": 41,
+    "state": "Kerala",
+    "mp": "Shri A. A. Rahim (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-42",
+    "house": "RS",
+    "sr_no": 42,
+    "state": "Kerala",
+    "mp": "Shri Abdul Wahab (2021-27) (2021-2027)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 310898953.29
+  },
+  {
+    "id": "RS-43",
+    "house": "RS",
+    "sr_no": 43,
+    "state": "Jharkhand",
+    "mp": "Shri Aditya Prasad (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 227628508.2
+  },
+  {
+    "id": "RS-44",
+    "house": "RS",
+    "sr_no": 44,
+    "state": "Karnataka",
+    "mp": "Shri Ajay Makan (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-45",
+    "house": "RS",
+    "sr_no": 45,
+    "state": "Bihar",
+    "mp": "Shri Akhilesh Prasad Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 186200000
+  },
+  {
+    "id": "RS-46",
+    "house": "RS",
+    "sr_no": 46,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Amar Pal Maurya (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-47",
+    "house": "RS",
+    "sr_no": 47,
+    "state": "Telangana",
+    "mp": "Shri Anil Kumar Yadav Mandadi (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-48",
+    "house": "RS",
+    "sr_no": 48,
+    "state": "Himachal Pradesh",
+    "mp": "Shri Anurag Sharma (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-49",
+    "house": "RS",
+    "sr_no": 49,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Arun Singh (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 223492764.11
+  },
+  {
+    "id": "RS-50",
+    "house": "RS",
+    "sr_no": 50,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Ashok Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-51",
+    "house": "RS",
+    "sr_no": 51,
+    "state": "Maharashtra",
+    "mp": "Shri Ashokrao Shankarrao Chavan (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-52",
+    "house": "RS",
+    "sr_no": 52,
+    "state": "Odisha",
+    "mp": "Shri Ashwini Vaishnaw (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 265563957.11
+  },
+  {
+    "id": "RS-53",
+    "house": "RS",
+    "sr_no": 53,
+    "state": "Telangana",
+    "mp": "Shri B. Parthasaradhi Reddy (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 244365104
+  },
+  {
+    "id": "RS-54",
+    "house": "RS",
+    "sr_no": 54,
+    "state": "Uttar Pradesh",
+    "mp": "Shri B.L. Verma (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-55",
+    "house": "RS",
+    "sr_no": 55,
+    "state": "Gujarat",
+    "mp": "Shri Babubhai Jesangbhai Desai (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-56",
+    "house": "RS",
+    "sr_no": 56,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Baburam Nishad (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-57",
+    "house": "RS",
+    "sr_no": 57,
+    "state": "Jharkhand",
+    "mp": "Shri Baidyanath Ram (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-58",
+    "house": "RS",
+    "sr_no": 58,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Balyogi Umeshnath (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-59",
+    "house": "RS",
+    "sr_no": 59,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Banshilal Gurjar (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-60",
+    "house": "RS",
+    "sr_no": 60,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Bhashyam Rama Krishna (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-61",
+    "house": "RS",
+    "sr_no": 61,
+    "state": "Assam",
+    "mp": "Shri Birendra Prasad Baishya (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 98000000
+  },
+  {
+    "id": "RS-62",
+    "house": "RS",
+    "sr_no": 62,
+    "state": "West Bengal",
+    "mp": "Shri Biswajit Sinha (Rahul Sinha) (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-63",
+    "house": "RS",
+    "sr_no": 63,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Brij Lal (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-64",
+    "house": "RS",
+    "sr_no": 64,
+    "state": "Kerala",
+    "mp": "Shri C. Sadanandan Master (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-65",
+    "house": "RS",
+    "sr_no": 65,
+    "state": "Maharashtra",
+    "mp": "Shri Chandrakant Damodar Handore (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-66",
+    "house": "RS",
+    "sr_no": 66,
+    "state": "Jammu And Kashmir",
+    "mp": "Shri Chowdry Mohammad Ramzan (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-67",
+    "house": "RS",
+    "sr_no": 67,
+    "state": "Tamil Nadu",
+    "mp": "Shri Christopher Manickam (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49356476.5
+  },
+  {
+    "id": "RS-68",
+    "house": "RS",
+    "sr_no": 68,
+    "state": "Rajasthan",
+    "mp": "Shri Chunnilal Garasiya (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-69",
+    "house": "RS",
+    "sr_no": 69,
+    "state": "Tamil Nadu",
+    "mp": "Shri Constandine Ravindran (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49356476.5
+  },
+  {
+    "id": "RS-70",
+    "house": "RS",
+    "sr_no": 70,
+    "state": "Telangana",
+    "mp": "Shri Damodar Rao Divakonda (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 239919406.11
+  },
+  {
+    "id": "RS-71",
+    "house": "RS",
+    "sr_no": 71,
+    "state": "Odisha",
+    "mp": "Shri Debashish Samantaray (2026-30) (2026-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 23800006
+  },
+  {
+    "id": "RS-72",
+    "house": "RS",
+    "sr_no": 72,
+    "state": "West Bengal",
+    "mp": "Shri Derek O' Brien (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-73",
+    "house": "RS",
+    "sr_no": 73,
+    "state": "Chhattisgarh",
+    "mp": "Shri Devendra Pratap Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 170837637.76
+  },
+  {
+    "id": "RS-74",
+    "house": "RS",
+    "sr_no": 74,
+    "state": "Maharashtra",
+    "mp": "Shri Dhananjay Bhimrao Mahadik (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220383643.11
+  },
+  {
+    "id": "RS-75",
+    "house": "RS",
+    "sr_no": 75,
+    "state": "Odisha",
+    "mp": "Shri Dilip Kumar Ray (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-76",
+    "house": "RS",
+    "sr_no": 76,
+    "state": "Sikkim",
+    "mp": "Shri Dorjee Tshering Lepcha (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 150170726.11
+  },
+  {
+    "id": "RS-77",
+    "house": "RS",
+    "sr_no": 77,
+    "state": "Karnataka",
+    "mp": "Shri G.C. Chandrashekhar (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-78",
+    "house": "RS",
+    "sr_no": 78,
+    "state": "Rajasthan",
+    "mp": "Shri Ghanshyam Tiwari (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-79",
+    "house": "RS",
+    "sr_no": 79,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Golla Baburao (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-80",
+    "house": "RS",
+    "sr_no": 80,
+    "state": "Gujarat",
+    "mp": "Shri Govindbhai Laljibhai Dholakia (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-81",
+    "house": "RS",
+    "sr_no": 81,
+    "state": "Jammu And Kashmir",
+    "mp": "Shri Gulam Ali (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-82",
+    "house": "RS",
+    "sr_no": 82,
+    "state": "Jammu And Kashmir",
+    "mp": "Shri Gurwinder Singh Oberoi (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-83",
+    "house": "RS",
+    "sr_no": 83,
+    "state": "Punjab",
+    "mp": "Shri Harbhajan Singh (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220984094.27
+  },
+  {
+    "id": "RS-84",
+    "house": "RS",
+    "sr_no": 84,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Hardeep Singh Puri (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 226801049.11
+  },
+  {
+    "id": "RS-85",
+    "house": "RS",
+    "sr_no": 85,
+    "state": "Kerala",
+    "mp": "Shri Haris Beeran (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 122500000
+  },
+  {
+    "id": "RS-86",
+    "house": "RS",
+    "sr_no": 86,
+    "state": "Himachal Pradesh",
+    "mp": "Shri Harsh Mahajan (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-87",
+    "house": "RS",
+    "sr_no": 87,
+    "state": "West Bengal",
+    "mp": "Shri Harsh Vardhan Shringla (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-88",
+    "house": "RS",
+    "sr_no": 88,
+    "state": "Tamil Nadu",
+    "mp": "Shri I.S. Inbadurai (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 89248285.42
+  },
+  {
+    "id": "RS-89",
+    "house": "RS",
+    "sr_no": 89,
+    "state": "Tamil Nadu",
+    "mp": "Shri Ilaiyaraaja (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-90",
+    "house": "RS",
+    "sr_no": 90,
+    "state": "Maharashtra",
+    "mp": "Shri Imran Pratapgarhi (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196000000
+  },
+  {
+    "id": "RS-91",
+    "house": "RS",
+    "sr_no": 91,
+    "state": "Gujarat",
+    "mp": "Shri Jagat Prakash Nadda (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-92",
+    "house": "RS",
+    "sr_no": 92,
+    "state": "Karnataka",
+    "mp": "Shri Jaggesh (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-93",
+    "house": "RS",
+    "sr_no": 93,
+    "state": "Karnataka",
+    "mp": "Shri Jairam Ramesh (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-94",
+    "house": "RS",
+    "sr_no": 94,
+    "state": "Meghalaya",
+    "mp": "Shri James Pangsang Kongkal Sangma (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-95",
+    "house": "RS",
+    "sr_no": 95,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Javed Ali Khan (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-96",
+    "house": "RS",
+    "sr_no": 96,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Jayant Chaudhary (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 214074707.67000002
+  },
+  {
+    "id": "RS-97",
+    "house": "RS",
+    "sr_no": 97,
+    "state": "Assam",
+    "mp": "Shri Jogen Mohan (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-98",
+    "house": "RS",
+    "sr_no": 98,
+    "state": "Kerala",
+    "mp": "Shri Jose K. Mani (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 122500000
+  },
+  {
+    "id": "RS-99",
+    "house": "RS",
+    "sr_no": 99,
+    "state": "Tamil Nadu",
+    "mp": "Shri K.R.N. Rajeshkumar (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 238513975.53
+  },
+  {
+    "id": "RS-100",
+    "house": "RS",
+    "sr_no": 100,
+    "state": "Tamil Nadu",
+    "mp": "Shri Kamal Haasan (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 89248285.42
+  },
+  {
+    "id": "RS-101",
+    "house": "RS",
+    "sr_no": 101,
+    "state": "Assam",
+    "mp": "Shri Kanad Purkayastha (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 98000000
+  },
+  {
+    "id": "RS-102",
+    "house": "RS",
+    "sr_no": 102,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Kapil Sibal (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-103",
+    "house": "RS",
+    "sr_no": 103,
+    "state": "Haryana",
+    "mp": "Shri Karamvir Singh Singh Boudh (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-104",
+    "house": "RS",
+    "sr_no": 104,
+    "state": "Haryana",
+    "mp": "Shri Kartikeya Sharma (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196000000
+  },
+  {
+    "id": "RS-105",
+    "house": "RS",
+    "sr_no": 105,
+    "state": "Gujarat",
+    "mp": "Shri Kesridevsinh Jhala (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-106",
+    "house": "RS",
+    "sr_no": 106,
+    "state": "Mizoram",
+    "mp": "Shri Khiangte Laltluangkima (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 24500000
+  },
+  {
+    "id": "RS-107",
+    "house": "RS",
+    "sr_no": 107,
+    "state": "Bihar",
+    "mp": "Shri Khiru Mahto (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 235770091.81
+  },
+  {
+    "id": "RS-108",
+    "house": "RS",
+    "sr_no": 108,
+    "state": "Tamil Nadu",
+    "mp": "Shri L. K. Sudhish (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49356476.5
+  },
+  {
+    "id": "RS-109",
+    "house": "RS",
+    "sr_no": 109,
+    "state": "Karnataka",
+    "mp": "Shri Lahar Singh Siroya (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 206278088.11
+  },
+  {
+    "id": "RS-110",
+    "house": "RS",
+    "sr_no": 110,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Lingamaneni Ramesh (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-111",
+    "house": "RS",
+    "sr_no": 111,
+    "state": "Karnataka",
+    "mp": "Shri M. Nagaraja (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-112",
+    "house": "RS",
+    "sr_no": 112,
+    "state": "Rajasthan",
+    "mp": "Shri Madan Rathore (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-113",
+    "house": "RS",
+    "sr_no": 113,
+    "state": "Uttarakhand",
+    "mp": "Shri Mahendra Bhatt (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-114",
+    "house": "RS",
+    "sr_no": 114,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Mahesh Kewat (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-115",
+    "house": "RS",
+    "sr_no": 115,
+    "state": "Karnataka",
+    "mp": "Shri Mallikarjun Kharge (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49063957.11
+  },
+  {
+    "id": "RS-116",
+    "house": "RS",
+    "sr_no": 116,
+    "state": "Bihar",
+    "mp": "Shri Manan Kumar Mishra (2024-28) (2024-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 235263957.11
+  },
+  {
+    "id": "RS-117",
+    "house": "RS",
+    "sr_no": 117,
+    "state": "Odisha",
+    "mp": "Shri Manas Ranjan Mangaraj (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-118",
+    "house": "RS",
+    "sr_no": 118,
+    "state": "Odisha",
+    "mp": "Shri Manmohan Samal (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-119",
+    "house": "RS",
+    "sr_no": 119,
+    "state": "Karnataka",
+    "mp": "Shri Mansoor Ali Khan (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-120",
+    "house": "RS",
+    "sr_no": 120,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Masthan Rao Yadav Beedha (2024-28) (2024-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171296045.11
+  },
+  {
+    "id": "RS-121",
+    "house": "RS",
+    "sr_no": 121,
+    "state": "Gujarat",
+    "mp": "Shri Mayankkumar Nayak (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-122",
+    "house": "RS",
+    "sr_no": 122,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Meda Raghunadha Reddy (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-123",
+    "house": "RS",
+    "sr_no": 123,
+    "state": "Maharashtra",
+    "mp": "Shri Milind Murli Deora (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-124",
+    "house": "RS",
+    "sr_no": 124,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Mithlesh Kumar (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-125",
+    "house": "RS",
+    "sr_no": 125,
+    "state": "West Bengal",
+    "mp": "Shri Mohammed Nadimul Haque (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-126",
+    "house": "RS",
+    "sr_no": 126,
+    "state": "Rajasthan",
+    "mp": "Shri Mukul Wasnik (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-127",
+    "house": "RS",
+    "sr_no": 127,
+    "state": "West Bengal",
+    "mp": "Shri Nagendra Ray (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-128",
+    "house": "RS",
+    "sr_no": 128,
+    "state": "Delhi",
+    "mp": "Shri Narain Dass Gupta (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 160837070
+  },
+  {
+    "id": "RS-129",
+    "house": "RS",
+    "sr_no": 129,
+    "state": "Karnataka",
+    "mp": "Shri Narayanasa K. Bhandage (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147450000
+  },
+  {
+    "id": "RS-130",
+    "house": "RS",
+    "sr_no": 130,
+    "state": "Uttarakhand",
+    "mp": "Shri Naresh Bansal (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 222043184.71
+  },
+  {
+    "id": "RS-131",
+    "house": "RS",
+    "sr_no": 131,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Naveen Jain (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-132",
+    "house": "RS",
+    "sr_no": 132,
+    "state": "Rajasthan",
+    "mp": "Shri Neeraj Dangi (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-133",
+    "house": "RS",
+    "sr_no": 133,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Neeraj Shekhar (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 236483662.11
+  },
+  {
+    "id": "RS-134",
+    "house": "RS",
+    "sr_no": 134,
+    "state": "Maharashtra",
+    "mp": "Shri Nitin Laxmanrao Jadhav Patil (2024-28) (2024-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 122500000
+  },
+  {
+    "id": "RS-135",
+    "house": "RS",
+    "sr_no": 135,
+    "state": "Bihar",
+    "mp": "Shri Nitin Nabin (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-136",
+    "house": "RS",
+    "sr_no": 136,
+    "state": "Tamil Nadu",
+    "mp": "Shri P. Chidambaram (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 236312242.52
+  },
+  {
+    "id": "RS-137",
+    "house": "RS",
+    "sr_no": 137,
+    "state": "Kerala",
+    "mp": "Shri P. P. Suneer (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 122500000
+  },
+  {
+    "id": "RS-138",
+    "house": "RS",
+    "sr_no": 138,
+    "state": "Tamil Nadu",
+    "mp": "Shri P. Wilson (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 89248285.42
+  },
+  {
+    "id": "RS-139",
+    "house": "RS",
+    "sr_no": 139,
+    "state": "Assam",
+    "mp": "Shri Pabitra Margherita (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-140",
+    "house": "RS",
+    "sr_no": 140,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Paka Venkata Satyanarayana (2025-28) (2025-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 98000000
+  },
+  {
+    "id": "RS-141",
+    "house": "RS",
+    "sr_no": 141,
+    "state": "Maharashtra",
+    "mp": "Shri Parth Ajit Pawar (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-142",
+    "house": "RS",
+    "sr_no": 142,
+    "state": "Karnataka",
+    "mp": "Shri Pawan Khera (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-143",
+    "house": "RS",
+    "sr_no": 143,
+    "state": "Jharkhand",
+    "mp": "Shri Pradip Kumar Varma (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 178564551.09
+  },
+  {
+    "id": "RS-144",
+    "house": "RS",
+    "sr_no": 144,
+    "state": "Maharashtra",
+    "mp": "Shri Praful Patel (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-145",
+    "house": "RS",
+    "sr_no": 145,
+    "state": "West Bengal",
+    "mp": "Shri Prakash Chik Baraik (2026-29) (2026-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49662892
+  },
+  {
+    "id": "RS-146",
+    "house": "RS",
+    "sr_no": 146,
+    "state": "Assam",
+    "mp": "Shri Pramod Boro (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-147",
+    "house": "RS",
+    "sr_no": 147,
+    "state": "Rajasthan",
+    "mp": "Shri Pramod Tiwari (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-148",
+    "house": "RS",
+    "sr_no": 148,
+    "state": "Tamil Nadu",
+    "mp": "Shri Praveen Chakravarthy (2026-28) (2026-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49356476.5
+  },
+  {
+    "id": "RS-149",
+    "house": "RS",
+    "sr_no": 149,
+    "state": "Tamil Nadu",
+    "mp": "Shri R. Dharmar (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 260812242.52
+  },
+  {
+    "id": "RS-150",
+    "house": "RS",
+    "sr_no": 150,
+    "state": "Tamil Nadu",
+    "mp": "Shri R. Girirajan (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 236312242.52
+  },
+  {
+    "id": "RS-151",
+    "house": "RS",
+    "sr_no": 151,
+    "state": "Punjab",
+    "mp": "Shri Raghav Chadha (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 237229207.25
+  },
+  {
+    "id": "RS-152",
+    "house": "RS",
+    "sr_no": 152,
+    "state": "West Bengal",
+    "mp": "Shri Rajeev Kumar (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-153",
+    "house": "RS",
+    "sr_no": 153,
+    "state": "Chhattisgarh",
+    "mp": "Shri Rajeev Shukla (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 271174394.23
+  },
+  {
+    "id": "RS-154",
+    "house": "RS",
+    "sr_no": 154,
+    "state": "Gujarat",
+    "mp": "Shri Rajesh Parmanand Shukla (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-155",
+    "house": "RS",
+    "sr_no": 155,
+    "state": "Tripura",
+    "mp": "Shri Rajib Bhattacharjee (2024-28) (2024-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 122500000
+  },
+  {
+    "id": "RS-156",
+    "house": "RS",
+    "sr_no": 156,
+    "state": "Punjab",
+    "mp": "Shri Rajinder Gupta (2025-28) (2025-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-157",
+    "house": "RS",
+    "sr_no": 157,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Rajneesh Kumar Agrawal (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-158",
+    "house": "RS",
+    "sr_no": 158,
+    "state": "Bihar",
+    "mp": "Shri Ram Nath Thakur (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 65673638.730000004
+  },
+  {
+    "id": "RS-159",
+    "house": "RS",
+    "sr_no": 159,
+    "state": "Maharashtra",
+    "mp": "Shri Ramdas Bandu Athawale (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-160",
+    "house": "RS",
+    "sr_no": 160,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Ramji (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 174518577.11
+  },
+  {
+    "id": "RS-161",
+    "house": "RS",
+    "sr_no": 161,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Ramji Lal Suman (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-162",
+    "house": "RS",
+    "sr_no": 162,
+    "state": "Maharashtra",
+    "mp": "Shri Ramrao Sakharam Wadkute (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-163",
+    "house": "RS",
+    "sr_no": 163,
+    "state": "Rajasthan",
+    "mp": "Shri Randeep Singh Surjewala (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-164",
+    "house": "RS",
+    "sr_no": 164,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Ratanjit Pratap Narain Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-165",
+    "house": "RS",
+    "sr_no": 165,
+    "state": "Telangana",
+    "mp": "Shri Ravi Chandra Vaddiraju (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 152732534.11
+  },
+  {
+    "id": "RS-166",
+    "house": "RS",
+    "sr_no": 166,
+    "state": "Assam",
+    "mp": "Shri Rwngwra Narzary (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-167",
+    "house": "RS",
+    "sr_no": 167,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Ryaga Krishnaiah (2024-28) (2024-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 170413583.79
+  },
+  {
+    "id": "RS-168",
+    "house": "RS",
+    "sr_no": 168,
+    "state": "Andhra Pradesh",
+    "mp": "Shri S Niranjan Reddy (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 224621383.11
+  },
+  {
+    "id": "RS-169",
+    "house": "RS",
+    "sr_no": 169,
+    "state": "Gujarat",
+    "mp": "Shri S. Jaishankar (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-170",
+    "house": "RS",
+    "sr_no": 170,
+    "state": "Tamil Nadu",
+    "mp": "Shri S. Kalyanasundaram (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 239763792.52
+  },
+  {
+    "id": "RS-171",
+    "house": "RS",
+    "sr_no": 171,
+    "state": "Puducherry",
+    "mp": "Shri S. Selvaganabathy (2021-27) (2021-2027)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 292881856.49
+  },
+  {
+    "id": "RS-172",
+    "house": "RS",
+    "sr_no": 172,
+    "state": "Tamil Nadu",
+    "mp": "Shri S.R. Sivalingam (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 89248285.42
+  },
+  {
+    "id": "RS-173",
+    "house": "RS",
+    "sr_no": 173,
+    "state": "Goa",
+    "mp": "Shri Sadanand Mhalu Shet Tanavade (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-174",
+    "house": "RS",
+    "sr_no": 174,
+    "state": "Jammu And Kashmir",
+    "mp": "Shri Sajjad Ahmad Kichloo (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-175",
+    "house": "RS",
+    "sr_no": 175,
+    "state": "West Bengal",
+    "mp": "Shri Samik Bhattacharya (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-176",
+    "house": "RS",
+    "sr_no": 176,
+    "state": "West Bengal",
+    "mp": "Shri Samirul Islam (2023-29) (2023-2029)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 171500000
+  },
+  {
+    "id": "RS-177",
+    "house": "RS",
+    "sr_no": 177,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Sana Sathish Babu (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49063978
+  },
+  {
+    "id": "RS-178",
+    "house": "RS",
+    "sr_no": 178,
+    "state": "Kerala",
+    "mp": "Shri Sandosh Kumar P (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-179",
+    "house": "RS",
+    "sr_no": 179,
+    "state": "Haryana",
+    "mp": "Shri Sanjay Bhatia (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-180",
+    "house": "RS",
+    "sr_no": 180,
+    "state": "Bihar",
+    "mp": "Shri Sanjay Kumar Jha (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 186200000
+  },
+  {
+    "id": "RS-181",
+    "house": "RS",
+    "sr_no": 181,
+    "state": "Maharashtra",
+    "mp": "Shri Sanjay Raut (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-182",
+    "house": "RS",
+    "sr_no": 182,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Sanjay Seth (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-183",
+    "house": "RS",
+    "sr_no": 183,
+    "state": "Delhi",
+    "mp": "Shri Sanjay Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 184466426.11
+  },
+  {
+    "id": "RS-184",
+    "house": "RS",
+    "sr_no": 184,
+    "state": "Bihar",
+    "mp": "Shri Sanjay Yadav (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 186200000
+  },
+  {
+    "id": "RS-185",
+    "house": "RS",
+    "sr_no": 185,
+    "state": "Punjab",
+    "mp": "Shri Sant Balbir Singh (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196359074.44000003
+  },
+  {
+    "id": "RS-186",
+    "house": "RS",
+    "sr_no": 186,
+    "state": "Jammu And Kashmir",
+    "mp": "Shri Sat Paul Sharma (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-187",
+    "house": "RS",
+    "sr_no": 187,
+    "state": "Bihar",
+    "mp": "Shri Satish Chandra Dubey (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 235263957.11
+  },
+  {
+    "id": "RS-188",
+    "house": "RS",
+    "sr_no": 188,
+    "state": "Chandigarh",
+    "mp": "Shri Satnam Singh Sandhu (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-189",
+    "house": "RS",
+    "sr_no": 189,
+    "state": "Bihar",
+    "mp": "Shri Shambhu Sharan Patel (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 237168443.49
+  },
+  {
+    "id": "RS-190",
+    "house": "RS",
+    "sr_no": 190,
+    "state": "Bihar",
+    "mp": "Shri Shivesh Kumar (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-191",
+    "house": "RS",
+    "sr_no": 191,
+    "state": "Haryana",
+    "mp": "Shri Subhash Barala (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-192",
+    "house": "RS",
+    "sr_no": 192,
+    "state": "Odisha",
+    "mp": "Shri Subhasish Khuntia (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-193",
+    "house": "RS",
+    "sr_no": 193,
+    "state": "Odisha",
+    "mp": "Shri Sujeet Kumar (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-194",
+    "house": "RS",
+    "sr_no": 194,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Surendra Singh Nagar (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-195",
+    "house": "RS",
+    "sr_no": 195,
+    "state": "Arunachal Pradesh",
+    "mp": "Shri Tai Tagak (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-196",
+    "house": "RS",
+    "sr_no": 196,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Tarun Chugh (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-197",
+    "house": "RS",
+    "sr_no": 197,
+    "state": "Uttar Pradesh",
+    "mp": "Shri Tejveer Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-198",
+    "house": "RS",
+    "sr_no": 198,
+    "state": "Assam",
+    "mp": "Shri Terash Gowalla (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-199",
+    "house": "RS",
+    "sr_no": 199,
+    "state": "Tamil Nadu",
+    "mp": "Shri Tiruchi Siva (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49356476.5
+  },
+  {
+    "id": "RS-200",
+    "house": "RS",
+    "sr_no": 200,
+    "state": "Maharashtra",
+    "mp": "Shri Ujjwal Deorao Nikam (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 73500000
+  },
+  {
+    "id": "RS-201",
+    "house": "RS",
+    "sr_no": 201,
+    "state": "Bihar",
+    "mp": "Shri Upendra Kushwaha (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-202",
+    "house": "RS",
+    "sr_no": 202,
+    "state": "Andhra Pradesh",
+    "mp": "Shri V. Vijayendra Prasad (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-203",
+    "house": "RS",
+    "sr_no": 203,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Vijay Chintakayala (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-204",
+    "house": "RS",
+    "sr_no": 204,
+    "state": "Maharashtra",
+    "mp": "Shri Vinod Shridhar Tawde (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-205",
+    "house": "RS",
+    "sr_no": 205,
+    "state": "Madhya Pradesh",
+    "mp": "Shri Vivek K. Tankha (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-206",
+    "house": "RS",
+    "sr_no": 206,
+    "state": "Andhra Pradesh",
+    "mp": "Shri Yerram Venkata Subba Reddy (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-207",
+    "house": "RS",
+    "sr_no": 207,
+    "state": "Manipur",
+    "mp": "Smt. Adhikarimayum Sharda Devi (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-208",
+    "house": "RS",
+    "sr_no": 208,
+    "state": "Uttar Pradesh",
+    "mp": "Smt. Darshana Singh (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196994373.87
+  },
+  {
+    "id": "RS-209",
+    "house": "RS",
+    "sr_no": 209,
+    "state": "Uttar Pradesh",
+    "mp": "Smt. Geeta alias Chandraprabha (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-210",
+    "house": "RS",
+    "sr_no": 210,
+    "state": "Uttar Pradesh",
+    "mp": "Smt. Jaya Amitabh Bachchan (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-211",
+    "house": "RS",
+    "sr_no": 211,
+    "state": "Kerala",
+    "mp": "Smt. Jebi Mather Hisham (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 220563957.11
+  },
+  {
+    "id": "RS-212",
+    "house": "RS",
+    "sr_no": 212,
+    "state": "Chhattisgarh",
+    "mp": "Smt. Laxmi Verma (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-213",
+    "house": "RS",
+    "sr_no": 213,
+    "state": "Jharkhand",
+    "mp": "Smt. Mahua Maji (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 232524001.2
+  },
+  {
+    "id": "RS-214",
+    "house": "RS",
+    "sr_no": 214,
+    "state": "West Bengal",
+    "mp": "Smt. Mamata Thakur (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-215",
+    "house": "RS",
+    "sr_no": 215,
+    "state": "Maharashtra",
+    "mp": "Smt. Maya Chintaman Ivnate (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-216",
+    "house": "RS",
+    "sr_no": 216,
+    "state": "Madhya Pradesh",
+    "mp": "Smt. Maya Naroliya (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-217",
+    "house": "RS",
+    "sr_no": 217,
+    "state": "Karnataka",
+    "mp": "Smt. Nirmala Sitharaman (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 215972051.45
+  },
+  {
+    "id": "RS-218",
+    "house": "RS",
+    "sr_no": 218,
+    "state": "Kerala",
+    "mp": "Smt. P. T. Usha (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-219",
+    "house": "RS",
+    "sr_no": 219,
+    "state": "Chhattisgarh",
+    "mp": "Smt. Phulo Devi Netam (2026-32) (2026-2032)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 49000000
+  },
+  {
+    "id": "RS-220",
+    "house": "RS",
+    "sr_no": 220,
+    "state": "Tamil Nadu",
+    "mp": "Smt. Rajathi (2025-31) (2025-2031)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 89248285.42
+  },
+  {
+    "id": "RS-221",
+    "house": "RS",
+    "sr_no": 221,
+    "state": "Chhattisgarh",
+    "mp": "Smt. Ranjeet Ranjan (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 246780257.87
+  },
+  {
+    "id": "RS-222",
+    "house": "RS",
+    "sr_no": 222,
+    "state": "Haryana",
+    "mp": "Smt. Rekha Sharma (2024-28) (2024-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 98000000
+  },
+  {
+    "id": "RS-223",
+    "house": "RS",
+    "sr_no": 223,
+    "state": "Telangana",
+    "mp": "Smt. Renuka Chowdhury (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-224",
+    "house": "RS",
+    "sr_no": 224,
+    "state": "Nagaland",
+    "mp": "Smt. S. Phangnon Konyak (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 206563957.11
+  },
+  {
+    "id": "RS-225",
+    "house": "RS",
+    "sr_no": 225,
+    "state": "Uttar Pradesh",
+    "mp": "Smt. Sadhna Singh (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-226",
+    "house": "RS",
+    "sr_no": 226,
+    "state": "West Bengal",
+    "mp": "Smt. Sagarika Ghose (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-227",
+    "house": "RS",
+    "sr_no": 227,
+    "state": "Uttar Pradesh",
+    "mp": "Smt. Sangeeta Yadav (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  },
+  {
+    "id": "RS-228",
+    "house": "RS",
+    "sr_no": 228,
+    "state": "Uttar Pradesh",
+    "mp": "Smt. Seema Dwivedi (2020-26) (2020-2026)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 173830159.11
+  },
+  {
+    "id": "RS-229",
+    "house": "RS",
+    "sr_no": 229,
+    "state": "Rajasthan",
+    "mp": "Smt. Sonia Gandhi (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-230",
+    "house": "RS",
+    "sr_no": 230,
+    "state": "Karnataka",
+    "mp": "Smt. Sudha Murty (2024-30) (2024-2030)",
+    "constituency": null,
+    "elected_nominated": "Nominated MP",
+    "allocated": 147000000
+  },
+  {
+    "id": "RS-231",
+    "house": "RS",
+    "sr_no": 231,
+    "state": "Odisha",
+    "mp": "Smt. Sulata Deo (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196084721.4
+  },
+  {
+    "id": "RS-232",
+    "house": "RS",
+    "sr_no": 232,
+    "state": "Madhya Pradesh",
+    "mp": "Smt. Sumitra Balmik (2022-28) (2022-2028)",
+    "constituency": null,
+    "elected_nominated": "Elected MP",
+    "allocated": 196063957.11
+  }
+]
